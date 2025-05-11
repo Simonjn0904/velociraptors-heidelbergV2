@@ -1,5 +1,8 @@
 sectionPagesMenu = ""
 
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = true
+
 [languages]
 
   [languages.de]
