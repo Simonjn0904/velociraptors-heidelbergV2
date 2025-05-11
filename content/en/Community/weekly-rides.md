@@ -13,7 +13,7 @@ draft: false
 <div style="margin-top: 1.0rem;"></div>
 
 📌 Uferstraße 4, Heidelberg  
-⏰ Every Saturday, 10:30 AM  
+⏰ Every Saturday, 10:00 AM  
 <div style="margin-top: 1.0rem;"></div>
 
 Every Saturday, we organize a group ride – with a clear focus on the social aspect: the pace is relaxed and invites conversation 🗣️, the vibe is excellent ✨, and most importantly: the ride usually ends with a coffee stop ☕.  

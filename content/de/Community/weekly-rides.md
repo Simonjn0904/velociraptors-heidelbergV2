@@ -13,7 +13,7 @@ draft: false
 <div style="margin-top: 1.0rem;"></div>
 
 📌 Uferstraße 4, Heidelberg  
-⏰ Jeden Samstag, 10:30 Uhr
+⏰ Jeden Samstag, 10:00 Uhr
 <div style="margin-top: 1.0rem;"></div>
 
 Jeden Samstag veranstalten wir eine gemeinsame Ausfahrt – der Fokus liegt dabei ganz klar auf dem Sozialen: Das Tempo ist locker und lädt zu Gesprächen ein 🗣️, die Stimmung ist hervorragend ✨, und am wichtigsten: In der Regel endet die Fahrt mit einem Café-Stopp ☕. Besonders willkommen sind Einsteiger:innen, Fahrer:innen mit Gravelbike 🚵‍♂️ oder alle, die sich in leistungsorientierten Gruppen nicht wohlfühlen. Das Tempo wird so angepasst, dass auch die langsamste Person entspannt mitfahren kann, ohne das Gefühl zu haben, mithalten zu müssen 🐢. Die jeweilige Route wird wöchentlich über die WhatsApp-Announcements-Gruppe 📱 bekannt gegeben.
