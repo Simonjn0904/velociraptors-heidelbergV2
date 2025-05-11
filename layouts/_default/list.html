@@ -1,0 +1,56 @@
+{{ define "main" }}
+
+<header>
+  <h1 class="mt-5 text-4xl font-extrabold text-neutral-900">{{ .Title }}</h1>
+</header>
+
+  {{ with .Params.description }}
+    <p class="mt-6 text-sm font-semibold text-neutral-600">
+      {{ . }}
+    </p>
+  {{ end }}
+</header>
+
+<section class="mt-16 mb-16 px-6 py-10">
+  {{ if gt (len .RegularPages) 0 }}
+
+    <div class="grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4">
+      {{ range .RegularPages.ByDate.Reverse }}
+        <article
+          class="border border-neutral-300 rounded-xl p-6 shadow-md flex flex-col"
+          style="background:white; margin:12px; margin-bottom: 32px; display: block;">
+
+          {{ with .Params.image }}
+            <img src="/images/blog/{{ . }}" alt="{{ $.Title }}" class="w-full h-48 object-cover mb-4 rounded-lg">
+          {{ end }}
+
+        <h2 class="text-xl font-semibold mb-2 text-left" style="color:black;">
+          {{ .Date.Format "02.01.2006" }} – 
+          <a href="{{ .RelPermalink }}" class="hover:underline font-bold text-left" style="color:black;">
+            {{ .Title }}
+          </a>
+        </h2>
+
+          <p class="text-neutral-800 text-sm mb-4">
+            {{ .Summary | default ( .Plain | truncate 120 ) }}
+          </p>
+
+          <a href="{{ .RelPermalink }}" style="color:#2563eb; font-weight: 500; text-decoration: underline;">
+            Mehr lesen →
+          </a>
+        </article>
+      {{ end }}
+    </div>
+
+    {{ partial "pagination.html" . }}
+
+  {{ else }}
+    <section class="mt-10 prose dark:prose-invert">
+      <p class="py-8 border-t">
+        <em>{{ i18n "list.no_articles" | emojify }}</em>
+      </p>
+    </section>
+  {{ end }}
+</section>
+
+{{ end }}

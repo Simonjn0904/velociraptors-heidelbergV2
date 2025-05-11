@@ -1,0 +1,15 @@
+body {
+  background-color: red !important;
+}
+
+.content p {
+  text-align: justify !important;
+}
+
+.main-menu {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

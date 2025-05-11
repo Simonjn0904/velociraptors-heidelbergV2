@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Velociraptors – Karte</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+
+  <style>
+    body { margin: 0; padding: 0; }
+    #map { height: 100vh; }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script>
+  // --- URL-Parameter auslesen ---
+  const params = new URLSearchParams(window.location.search);
+  const lat = parseFloat(params.get("lat")) || 49.0;
+  const lng = parseFloat(params.get("lng")) || 9.5;
+  const zoom = parseInt(params.get("zoom")) || 6;
+
+  // Karte initialisieren mit Werten aus URL oder Standard
+  var map = L.map('map').setView([lat, lng], zoom);
+
+  // Tile-Layer
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 18,
+    attribution: '© OpenStreetMap-Mitwirkende'
+  }).addTo(map);
+
+  // Sticker-Marker
+  var dinoIcon = L.icon({
+    iconUrl: 'velociraptors-logo03.png',
+    iconSize: [60, 60],
+    iconAnchor: [30, 60],
+    popupAnchor: [0, -60]
+  });
+
+  // Treffpunkt-Marker
+  var meetup = L.icon({
+    iconUrl: 'meeting-point.png',
+    iconSize: [60, 80],
+    iconAnchor: [30, 80],  // angepasst: Spitze unten
+    popupAnchor: [0, -80]
+  });
+
+  // Treffpunkt
+  L.marker([49.41325, 8.6919444], { icon: meetup })
+    .addTo(map)
+    .bindTooltip("<b style='color:red;'>Meeting point for the weekly rides</b>", { permanent: true, direction: "right", offset: [10, 0] });
+
+  // Marker  – Ludwigshöhe, Straßlach-Dingharting (z. B. "Tom")
+  L.marker([47.9675, 11.5147], { icon: dinoIcon })
+    .addTo(map)
+    .bindTooltip("Sticker, Simon, 17.03.25", { permanent: true, direction: "right", offset: [10, 0] });
+
+  // Marker  – Berggasthof Königstuhl (z. B. "Simon")
+  L.marker([49.40246, 8.72780], { icon: dinoIcon })
+    .addTo(map)
+    .bindTooltip("Sticker, Simon, 21.01.25", { permanent: true, direction: "right", offset: [10, 0] });
+
+  // Marker 2 – Teddy
+  L.marker([49.404000, 8.727300], { icon: dinoIcon })
+    .addTo(map)
+    .bindTooltip("Sticker, Teddy, 01.12.25", { permanent: true, direction: "right", offset: [10, 0] });
+
+  // Marker 3 – Teddy
+  L.marker([49.024100, 8.353200], { icon: dinoIcon })
+    .addTo(map)
+    .bindTooltip("Sticker, Teddy, 07.12.24", { permanent: true, direction: "right", offset: [10, 0] });
+
+  // Marker 4 – Teddy
+  L.marker([49.403400, 8.704400], { icon: dinoIcon })
+    .addTo(map)
+    .bindTooltip("Sticker, Teddy, 01.12.24", { permanent: true, direction: "right", offset: [10, 0] });
+
+  // Marker 5– Teddy
+  L.marker([-16.289300, -67.827200], { icon: dinoIcon })
+    .addTo(map)
+    .bindTooltip("Sticker, Teddy, 26.01.25", { permanent: true, direction: "right", offset: [10, 0] });
+
+  // Marker 6 - Teddy
+  L.marker([52.230472, 0.111608], { icon: dinoIcon })
+    .addTo(map)
+    .bindTooltip(
+      L.DomUtil.create('div', 'custom-tooltip'),
+      {
+        permanent: true,
+        direction: 'right',
+        offset: [10, 0],
+        interactive: true  // 👈 WICHTIG: Damit der Tooltip auf Mausaktionen reagiert
+      }
+    );
+
+  // Inhalt nachträglich setzen (wegen DOM-Struktur von Leaflet)
+  document.querySelector('.custom-tooltip').innerHTML =
+    'Sticker, Teddy, 02.04.25, <a href="/images/teddy_cambridge.jpg" target="_blank">Picture</a>';
+
+    
+  // Marker 7- Teddy in den Niederlanden
+  L.marker([51.628353, 4.767817], { icon: dinoIcon })
+    .addTo(map)
+    .bindTooltip(
+      L.DomUtil.create('div', 'custom-tooltip'),
+      {
+        permanent: true,
+        direction: 'right',
+        offset: [10, 0],
+        interactive: true
+      }
+    );
+
+  // Inhalt nachträglich setzen
+  document.querySelectorAll('.custom-tooltip')[1].innerHTML =
+    'Sticker, Teddy, 01.04.25, <a href="/images/teddy_netherlands01.jpg" target="_blank">Picture</a>';
+
+
+
+  // Marker 8 - Teddy in den Niederlanden (Standort 2)
+  L.marker([50.846325, 6.019047], { icon: dinoIcon })
+    .addTo(map)
+    .bindTooltip(
+      L.DomUtil.create('div', 'custom-tooltip'),
+      {
+        permanent: true,
+        direction: 'right',
+        offset: [10, 0],
+        interactive: true
+      }
+    );
+
+  // Inhalt nachträglich setzen
+  document.querySelectorAll('.custom-tooltip')[2].innerHTML =
+    'Sticker, Teddy, 31.03.25, <a href="/images/teddy_netherlands02.jpg" target="_blank">Picture</a>';
+
+
+  // Marker 9 - Teddy in den Niederlanden (Standort 3)
+  L.marker([50.626981, 6.233006], { icon: dinoIcon })
+    .addTo(map)
+    .bindTooltip(
+      L.DomUtil.create('div', 'custom-tooltip'),
+      {
+        permanent: true,
+        direction: 'right',
+        offset: [10, 0],
+        interactive: true
+      }
+    );
+
+  // Inhalt nachträglich setzen
+  document.querySelectorAll('.custom-tooltip')[3].innerHTML =
+    'Sticker, Teddy, 31.03.25, <a href="/images/teddy_netherlands03.jpg" target="_blank">Picture</a>';
+
+
+// Marker 10 - Teddy (Eifelregion) mit direktem Tooltip-Inhalt
+L.marker([50.554778, 6.240550], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Teddy, 31.03.25, <a href="/images/teddy_04.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+
+// Marker 11 - Teddy (Eifelregion, südlicher) mit direktem Tooltip-Inhalt
+L.marker([50.237114, 6.180358], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Teddy, 30.03.25, <a href="/images/teddy_05.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+// Marker 12 - Teddy (Nähe vorheriger Punkt) mit direktem Tooltip-Inhalt
+L.marker([50.237828, 6.183617], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Teddy, 30.03.25, <a href="/images/teddy_06.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+// Marker 13 - Teddy (südliche Eifel) mit direktem Tooltip-Inhalt
+L.marker([50.018711, 6.287847], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Teddy, 30.03.25, <a href="/images/teddy_07.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+// Marker 14 - Teddy (Pfälzerwald / Kaiserslautern-Region) mit direktem Tooltip-Inhalt
+L.marker([49.535703, 7.324622], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Teddy, 29.03.25, <a href="/images/teddy_08.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+// Marker 15 - Teddy (östlich Kaiserslautern) mit direktem Tooltip-Inhalt
+L.marker([49.483239, 7.616231], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Teddy, 29.03.25, <a href="/images/teddy_09.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+
+// Marker 16 – Teddy (16.03.2025) nahe Heidelberg
+L.marker([49.391961, 8.907056], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Teddy, 16.03.2025, <a href="/images/Teddy_10.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+// Marker 17– Teddy
+L.marker([48.110200, 7.654900], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip("Sticker, Teddy, 08.03.25", { 
+    permanent: true, 
+    direction: "right", 
+    offset: [10, 0] 
+  });
+
+// Marker 18– Teddy
+L.marker([49.429000, 8.715200], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip("Sticker, Teddy, 23.02.25", { 
+    permanent: true, 
+    direction: "right", 
+    offset: [10, 0] 
+  });
+
+// Marker 19 – Teddy
+L.marker([49.447761, 8.690336], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Teddy, 22.02.2025, <a href="/images/Teddy_11.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+
+// Marker 20 – Teddy
+L.marker([49.458700, 8.678900], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip("Sticker, Teddy, 08.12.25", {
+    permanent: true,
+    direction: "right",
+    offset: [10, 0]
+  });
+
+
+// Marker 21 – Teddy
+L.marker([49.453122, 8.723181], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip("Sticker, Teddy, 08.11.25", {
+    permanent: true,
+    direction: "right",
+    offset: [10, 0]
+  });
+
+
+// Marker 22 – Zak
+L.marker([46.8345869, 9.7930362], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Zak, 18.03.2025, <a href="/images/zak_01.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+
+// Marker 23 – Zak
+L.marker([47.5166389, 18.9580584], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Zak, 21.04.2025, <a href="/images/zak_02.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+// Marker 24 – Zak
+L.marker([47.5006778, 19.0503334], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Zak, 19.04.2025, <a href="/images/zak_03.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+// Marker 25 – Zak
+L.marker([46.7719861, 9.8466334], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Zak, 20.03.2025, <a href="/images/zak_04.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+
+// Marker 26 – Zak
+L.marker([46.8342917, 9.7932001], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Zak, 19.03.2025, <a href="/images/zak_05.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+</script>
+
+</body>
+</html>

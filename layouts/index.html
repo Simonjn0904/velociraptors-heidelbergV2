@@ -1,0 +1,70 @@
+{{ define "main" }}
+
+  <!-- Optional: zentrierte Überschrift + Beschreibung aus der Front Matter -->
+  <header class="mt-10 mb-8 px-6 text-center">
+    <h1 class="text-4xl md:text-6xl font-extrabold leading-tight tracking-tight text-neutral-900 dark:text-neutral">
+      {{ .Title | emojify }}
+    </h1>
+    {{ with .Params.description }}
+      <p class="mt-8 text-base md:text-lg font-medium text-neutral-600 dark:text-neutral-400 max-w-2xl mx-auto text-center" style="text-align: center;">
+        {{ . }}
+      </p>
+    {{ end }}
+  </header>
+
+  <!-- Optional: Profile/Homepage Layout -->
+  {{ $partial := print "home/" .Site.Params.homepage.layout ".html" }}
+  {{ if templates.Exists (printf "partials/%s" $partial) }}
+    {{ partial $partial . }}
+  {{ else }}
+    {{ partial "home/profile.html" . }}
+  {{ end }}
+
+  <!-- Blog-Sektion -->
+  <section class="mt-6 mb-16 px-6 py-10">
+    <h2 class="text-2xl font-bold mb-8 text-center">Neueste Blogbeiträge</h2>
+
+    {{ $blogpages := where site.RegularPages "Section" "blog" }}
+    {{ $dated := where $blogpages ".Date" "ne" nil }}
+    {{ $recent := first 3 (sort $dated ".Date" "desc") }}
+
+    <div class="grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4">
+      {{ range $recent }}
+        <article
+          class="border border-neutral-300 rounded-xl p-6 shadow-md flex flex-col"
+          style="background:white; margin:12px; margin-bottom: 32px;">
+
+          {{ with .Params.image }}
+            <img src="/images/blog/{{ . }}" alt="{{ $.Title }}" class="w-full h-48 object-cover mt-6 mb-3 rounded-lg">
+          {{ end }}
+
+          <h2 class="text-xl font-semibold mb-2 text-left text-black">
+            {{ .Date.Format "02.01.2006" }} –
+            <a href="{{ .RelPermalink }}" class="hover:underline font-bold text-black">
+              {{ .Title }}
+            </a>
+          </h2>
+
+          <p class="text-neutral-800 text-sm mb-4 text-left">
+            {{ .Summary | default ( .Plain | truncate 120 ) }}
+          </p>
+
+          <a href="{{ .RelPermalink }}" class="text-blue-600 font-medium underline hover:text-blue-800">
+            Mehr lesen →
+          </a>
+        </article>
+      {{ end }}
+
+      <!-- Vierte Kachel: Link zur Blogübersicht -->
+      <article
+        class="border border-dashed border-neutral-300 rounded-xl p-6 shadow-inner flex flex-col justify-center items-center"
+        style="background: #f9fafb; margin:12px; margin-bottom: 32px;">
+        <p class="text-xl font-semibold mb-4 text-neutral-700">Mehr entdecken?</p>
+        <a href="/blog/" class="text-primary-600 font-bold underline hover:text-primary-800">
+          → Alle Beiträge ansehen
+        </a>
+      </article>
+    </div>
+  </section>
+
+{{ end }}

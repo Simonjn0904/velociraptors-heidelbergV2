@@ -1,0 +1,240 @@
+sectionPagesMenu = ""
+
+[languages]
+
+  [languages.de]
+  languageName = "Deutsch"
+  weight = 1
+  contentDir = "content/de"
+  title = "VELOciraptors Heidelberg"
+  headline = "Wir sind eine offene Radcommunity aus Heidelberg. Bei uns stehen Ausfahrten, Gemeinschaft und Vielfalt im Vordergrund – egal ob Einsteiger:in oder Racer."
+
+  languageCode = "de-DE"
+
+    [languages.de.menu]
+
+      [[languages.de.menu.main]]
+      name = "Über uns"
+      pageRef = "about"
+      identifier = "about"
+      weight = 1
+
+      [[languages.de.menu.main]]
+      name = "Mitmachen"
+      identifier = "Mitmachen"
+      weight = 2
+      hasChildren = true
+
+        [[languages.de.menu.main]]
+        parent = "Mitmachen"
+        name = "WhatsApp-Community"
+        pageRef = "community/whatsapp"
+        weight = 2
+
+        [[languages.de.menu.main]]
+        parent = "Mitmachen"
+        name = "Wöchentliche Ausfahrten"
+        pageRef = "community/weekly-rides"
+        weight = 3
+
+        [[languages.de.menu.main]]
+        parent = "Mitmachen"
+        name = "Fahrradbörse"
+        pageRef = "community/bike-exchange"
+        weight = 4
+
+        [[languages.de.menu.main]]
+        parent = "Mitmachen"
+        name = "Radrennen"
+        pageRef = "community/racing"
+        weight = 5
+
+        [[languages.de.menu.main]]
+        parent = "Mitmachen"
+        name = "Kalender"
+        pageRef = "community/calendar"
+        weight = 6
+
+        [[languages.de.menu.main]]
+        parent = "Mitmachen"
+        name = "Orga-Team"
+        pageRef = "community/orgateam"
+        weight = 6
+
+        [[languages.de.menu.main]]
+        parent = "Mitmachen"
+        name = "Unterstützen"
+        pageRef = "community/sponsoring"
+        weight = 6
+
+      [[languages.de.menu.main]]
+      name = "Entdecken"
+      identifier = "explore"
+      weight = 3
+      hasChildren = true
+
+        [[languages.de.menu.main]]
+        parent = "explore"
+        name = "Blog"
+        pageRef = "blog"
+        weight = 1
+
+        [[languages.de.menu.main]]
+        parent = "explore"
+        name = "Merch"
+        pageRef = "explore/merch"
+        weight = 2
+
+        [[languages.de.menu.main]]
+        parent = "explore"
+        name = "VELOciraptors Weltweit"
+        pageRef = "explore/map"
+        weight = 3
+
+        [[languages.de.menu.main]]
+        parent = "explore"
+        name = "Schöne Strecken"
+        pageRef = "explore/nice-routes"
+        weight = 4
+
+        [[languages.de.menu.main]]
+        parent = "explore"
+        name = "Galerie"
+        pageRef = "explore/gallery"
+        weight = 5
+
+        [[languages.de.menu.main]]
+        parent = "explore"
+        name = "Nützliche Links"
+        pageRef = "explore/links"
+        weight = 6
+
+      [[languages.de.menu.main]]
+      name = "Impressum"
+      pageRef = "imprint"
+      identifier = "imprint"
+      weight = 4
+
+[languages.en]
+languageName = "English"
+weight = 2
+contentDir = "content/en"
+title = "Velociraptors Heidelberg"
+languageCode = "en-US"
+headline = "We are an open cycling community from Heidelberg. We focus on rides, togetherness, and diversity – whether you're a beginner or a racer."
+
+  [languages.en.menu]
+
+    [[languages.en.menu.main]]
+    name = "About us"
+    pageRef = "about"
+    identifier = "about"
+    weight = 1
+
+    [[languages.en.menu.main]]
+    name = "Join"
+    identifier = "community"
+    weight = 2
+    hasChildren = true
+
+      [[languages.en.menu.main]]
+      parent = "community"
+      name = "WhatsApp Group"
+      pageRef = "community/whatsapp"
+      weight = 2
+
+      [[languages.en.menu.main]]
+      parent = "community"
+      name = "Weekly Rides"
+      pageRef = "community/weekly-rides"
+      weight = 3
+
+      [[languages.en.menu.main]]
+      parent = "community"
+      name = "Bike Exchange"
+      pageRef = "community/bike-exchange"
+      weight = 4
+
+      [[languages.en.menu.main]]
+      parent = "community"
+      name = "Racing"
+      pageRef = "community/racing"
+      weight = 5
+
+      [[languages.en.menu.main]]
+      parent = "community"
+      name = "Calendar"
+      pageRef = "community/calendar"
+      weight = 6
+
+      [[languages.en.menu.main]]
+      parent = "community"
+      name = "Orga-Team"
+      pageRef = "community/orgateam"
+      weight = 6
+
+      [[languages.en.menu.main]]
+      parent = "community"
+      name = "Support Us"
+      pageRef = "community/sponsoring"
+      weight = 6
+
+    [[languages.en.menu.main]]
+    name = "Explore"
+    identifier = "explore"
+    weight = 3
+    hasChildren = true
+
+      [[languages.en.menu.main]]
+      parent = "explore"
+      name = "Blog"
+      pageRef = "blog"
+      weight = 1
+
+      [[languages.en.menu.main]]
+      parent = "explore"
+      name = "Merch"
+      pageRef = "explore/merch"
+      weight = 2
+
+      [[languages.en.menu.main]]
+      parent = "explore"
+      name = "Velociraptors Worldwide"
+      pageRef = "explore/map"
+      weight = 3
+
+      [[languages.en.menu.main]]
+      parent = "explore"
+      name = "Nices Routes"
+      pageRef = "explore/nice-routes"
+      weight = 4
+
+      [[languages.en.menu.main]]
+      parent = "explore"
+      name = "Gallery"
+      pageRef = "explore/gallery"
+      weight = 5
+
+      [[languages.en.menu.main]]
+      parent = "explore"
+      name = "Useful Links"
+      pageRef = "explore/links"
+      weight = 6
+
+    [[languages.en.menu.main]]
+    name = "Imprint"
+    pageRef = "imprint"
+    identifier = "imprint"
+    weight = 4
+
+
+[params]
+logo = "images/velociraptors-logo4.png"
+favicon = "favicon.png"
+disableImageZoom = false
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[markup.goldmark.renderer]
+unsafe = true

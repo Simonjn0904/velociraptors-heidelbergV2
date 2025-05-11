@@ -1,0 +1,29 @@
+disabled = false
+languageCode = "de"
+languageName = "Deutsch"
+weight = 1
+title = "Velociraptors Heidelberg"
+
+[params]
+  displayName = "DE"
+  isoCode = "de"
+  rtl = false
+  dateFormat = "2. Januar 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "Meine großartige Website"
+  # copyright = "© Velociraptors Heidelberg – Alle Rechte vorbehalten"
+
+# [params.author]
+#   name = "Dein Name hier"
+#   email = "deine@email.de"
+#   image = "img/blowfish_logo.png"
+#   imageQuality = 96
+#   headline = "Ich bin auch nur ein Mensch"
+#   bio = "Ein paar Infos über dich"
+#   links = [
+#     { github = "https://github.com/dein-benutzername" },
+#     { instagram = "https://instagram.com/dein-benutzername" },
+#     { linkedin = "https://linkedin.com/in/dein-benutzername" },
+#     { whatsapp = "https://wa.me/deine-nummer" },
+#   ]
