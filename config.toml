@@ -232,6 +232,46 @@ headline = "We are an open cycling community from Heidelberg. We focus on rides,
 logo = "images/velociraptors-logo4.png"
 favicon = "favicon.png"
 disableImageZoom = false
+keywords = [
+  "Rennrad", 
+  "Heidelberg", 
+  "Rennradgruppe", 
+  "Radsport", 
+  "Rhein",
+  "Neckar",
+  "Mannheim",
+  "Uni",
+  "Sport",
+  "Rennrad",
+  "Lizenz",
+  "Rad",
+  "Rennen",
+  "Gravel",
+  "Heidelberg Radfahren", 
+  "RSV", 
+  "RTF", 
+  "Bike", 
+  "Cycling", 
+  "Strava", 
+  "Simon",
+  "Janus",
+  "Tri",
+  "Mountain",
+  "Training",
+  "Zeiten",
+  "Ausfahrt",
+  "Team",
+  "Verein",
+  "Radsport",
+  "Termine",
+  "athlon",
+  "Man",
+  "Routen", 
+  "Jedermannrennen", 
+  "Radverein", 
+  "Gruppenfahrten", 
+  "Touren"
+  ]
 
 [params.assets]
 customCSS = ["css/custom.css"]
