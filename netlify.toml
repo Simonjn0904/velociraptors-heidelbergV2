@@ -1,5 +1,5 @@
 [build]
-  command = "cd exampleSite && hugo --gc --minify -D -b https://blowfish.page"
+  command = "cd exampleSite && hugo --gc --minify -D -b https://velociraptors-heidelberg.com"
   publish = "exampleSite/public"
 
 [build.environment]
