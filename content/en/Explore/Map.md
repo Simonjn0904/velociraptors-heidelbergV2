@@ -7,8 +7,7 @@ draft: false
 **Sticker World Map**  
 <div style="margin-top: 1.5rem;"></div>
 
-Have you placed a Velociraptors sticker somewhere in the world?  
-Help us fill our global sticker map! Just enter the location using the form below – we'll add your spot to the interactive map.
+Have you placed a Velociraptors sticker somewhere in the world? Help us fill our global sticker map! Just enter the location using the form below – we'll add your spot to the interactive map.
 
 <div style="margin-top: 1.5rem;"></div>
 

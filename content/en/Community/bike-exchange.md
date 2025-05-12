@@ -7,14 +7,10 @@ draft: false
 You’d love to join a Social Ride, but don’t have the right bike? 🚴‍♀ You want to try riding a road bike a few times before buying your own? 💸 Your bike just got stolen and your cycling date next week is in danger? 😬 Then check out the Bike Exchange, reach out to people offering bikes in your size, and set up a time to borrow and return one! 🌟  
 <div style="margin-top: 1.0rem;"></div>
 
-This idea came about because we talked to lots of people who have 2 or 3 great bikes sitting in their garage – while many others struggle to get into cycling because of the high cost.  
-That means cycling is often only accessible to those who can afford it. It excludes a lot of people, reinforces elitist attitudes, and fosters social cliques in the cycling world.  
-We want to actively counter that – and offer a concrete alternative. ✊🚲  
+This idea came about because we talked to lots of people who have 2 or 3 great bikes sitting in their garage – while many others struggle to get into cycling because of the high cost. That means cycling is often only accessible to those who can afford it. It excludes a lot of people, reinforces elitist attitudes, and fosters social cliques in the cycling world. We want to actively counter that – and offer a concrete alternative. ✊🚲  
 <div style="margin-top: 1.0rem;"></div>
 
-For this concept to work, we need your support!  
-If you have a bike you’d consider lending out, please add it to the list!  
-And: help spread the word. We know most folks in this group probably do own bikes – so tell your friends and people you know that this option exists, and share the link if they might be interested!  
+For this concept to work, we need your support! If you have a bike you’d consider lending out, please add it to the list! And: help spread the word. We know most folks in this group probably do own bikes – so tell your friends and people you know that this option exists, and share the link if they might be interested!  
 <div style="margin-top: 1.0rem;"></div>
 
 <iframe 
