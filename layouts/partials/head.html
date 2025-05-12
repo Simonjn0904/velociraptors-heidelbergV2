@@ -6,7 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-  <!-- ✅ robuster, sprachsensitiver Seitentitel -->
   <title>{{ with .Title }}{{ . }} · {{ end }}{{ .Site.Title }}</title>
   <meta name="title" content="{{ with .Title }}{{ . }} · {{ end }}{{ .Site.Title }}" />
 
@@ -40,6 +39,16 @@
   {{ if $cssCustom }}
   {{ $assets.Add "css" (slice $cssCustom) }}
   {{ end }}
+
+  <!-- ✅ DEINE ÄNDERUNG: weiße Dropdowns auf Desktop -->
+  <style>
+    @media (min-width: 1024px) {
+      .main-menu li:hover > ul {
+        background-color: white !important;
+      }
+    }
+  </style>
+
   {{ $bundleCSS := $assets.Get "css" | resources.Concat "css/main.bundle.css" | resources.Minify | resources.Fingerprint "sha512" }}
   <link type="text/css" rel="stylesheet" href="{{ $bundleCSS.RelPermalink }}"
     integrity="{{ $bundleCSS.Data.Integrity }}" />
@@ -88,22 +97,6 @@
   <link rel="manifest" href="{{ "site.webmanifest" | relURL }}" />
   {{ end }}
 
-  {{ with .Site.Params.verification.google }}
-  <meta name="google-site-verification" content="{{ . }}" />
-  {{ end }}
-  {{ with .Site.Params.verification.bing }}
-  <meta name="msvalidate.01" content="{{ . }}" />
-  {{ end }}
-  {{ with .Site.Params.verification.pinterest }}
-  <meta name="p:domain_verify" content="{{ . }}" />
-  {{ end }}
-  {{ with .Site.Params.verification.yandex }}
-  <meta name="yandex-verification" content="{{ . }}" />
-  {{ end }}
-  {{ with .Site.Params.verification.fediverse }}
-  <meta name="fediverse:creator" content="{{ . }}" />
-  {{ end }}
-
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
   {{ partial "schema.html" . }}
@@ -127,28 +120,6 @@
   {{ end }}
 
   <meta name="theme-color"/>
-
-  {{ with $.Site.Params.firebase }}
-  {{ if isset $.Site.Params "firebase" }}
-  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
-  <script>
-    const firebaseConfig = {
-      apiKey: {{ $.Site.Params.firebase.apiKey }},
-      authDomain: {{ $.Site.Params.firebase.apiKey }},
-      projectId: {{ $.Site.Params.firebase.projectId }},
-      storageBucket: {{ $.Site.Params.firebase.storageBucket }},
-      messagingSenderId: {{ $.Site.Params.firebase.messagingSenderId }},
-      appId: {{ $.Site.Params.firebase.appId }},
-      measurementId: {{ $.Site.Params.firebase.measurementId }}
-    };
-    var app = firebase.initializeApp(firebaseConfig);
-    var db = firebase.firestore();
-    var auth = firebase.auth();
-  </script>
-  {{ end }}
-  {{ end }}
 
   <!-- Globaler Blocksatz & transparenter Header -->
   <style>
@@ -181,5 +152,16 @@
       z-index: -1;
       pointer-events: none;
     }
+
+    @media (min-width: 1024px) {
+      .main-menu li:hover > ul,
+      .main-menu li:focus-within > ul {
+        background-color: #ffffff !important;
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+        background-image: none !important;
+      }
+    }
   </style>
+
 </head>
