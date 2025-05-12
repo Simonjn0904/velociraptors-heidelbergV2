@@ -4,8 +4,7 @@ menu:
 draft: false
 ---
 
-We're placing another order for jerseys, bottles, and socks for the summer!  
-Please fill out the form **no later than May 18** so we can place the order promptly!
+We're placing another order for jerseys, bottles, and socks for the summer! Please fill out the form **no later than May 18** so we can place the order promptly!
 
 <div style="margin-top: 2.0rem;"></div>
 

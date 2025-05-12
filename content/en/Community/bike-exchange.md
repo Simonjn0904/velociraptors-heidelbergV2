@@ -4,8 +4,7 @@ menu:
 draft: false
 ---
 
-You’d love to join a Social Ride, but don’t have the right bike? 🚴‍♀ You want to try riding a road bike a few times before buying your own? 💸 Your bike just got stolen and your cycling date next week is in danger? 😬  
-Then check out the Bike Exchange, reach out to people offering bikes in your size, and set up a time to borrow and return one! 🌟  
+You’d love to join a Social Ride, but don’t have the right bike? 🚴‍♀ You want to try riding a road bike a few times before buying your own? 💸 Your bike just got stolen and your cycling date next week is in danger? 😬 Then check out the Bike Exchange, reach out to people offering bikes in your size, and set up a time to borrow and return one! 🌟  
 <div style="margin-top: 1.0rem;"></div>
 
 This idea came about because we talked to lots of people who have 2 or 3 great bikes sitting in their garage – while many others struggle to get into cycling because of the high cost.  
