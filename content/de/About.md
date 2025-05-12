@@ -11,17 +11,12 @@ menu:
 
 **✨🦕 Willkommen bei den Dinos! 🦖✨**  
 <div style="margin-top: 1.0rem;"></div>
-Wir sind eine Gemeinschaft junger Radfahrer:innen, die wöchentliche Ausfahrten und regelmäßige Treffen abseits des Fahrrads sowie größere Radsportveranstaltungen organisieren.
-
-Damit wollen wir einen Raum schaffen, in dem jede:r – unabhängig von Fitness, Erfahrung oder Ausrüstung – Spaß am Radfahren haben kann. Für uns liegt der Schwerpunkt auf der sozialen Seite der Dinge.
-
-Unser Ziel ist es, eine integrative Gruppe aufzubauen und einen sicheren Raum vor Diskriminierung zu schaffen, in dem sich jeder wohl und willkommen fühlen kann! 🚴‍♀️🚴‍♂️🚴
+Wir sind eine Gemeinschaft junger Radfahrer:innen, die wöchentliche Ausfahrten und regelmäßige Treffen abseits des Fahrrads sowie größere Radsportveranstaltungen organisieren. Damit wollen wir einen Raum schaffen, in dem jede:r – unabhängig von Fitness, Erfahrung oder Ausrüstung – Spaß am Radfahren haben kann. Für uns liegt der Schwerpunkt auf der sozialen Seite der Dinge. Unser Ziel ist es, eine integrative Gruppe aufzubauen und einen sicheren Raum vor Diskriminierung zu schaffen, in dem sich jeder wohl und willkommen fühlen kann! 🚴‍♀️🚴‍♂️🚴
 <div style="margin-top: 2.0rem;"></div>
 
 **Vielfalt statt Ausgrenzung✊🏻✊🏽✊🏿**     
 <div style="margin-top: 1.0rem;"></div>
-Wir sind weltoffen und tolerant. Als VELOciraptors Heidelberg stehen wir für Vielfalt und Demokratie. Wir bekennen uns ausdrücklich zu einem Miteinander, das jeder Form von Faschismus, Rassismus und Ausgrenzung entschieden entgegentritt. Wir distanzieren uns von allen Personen und Organisationen, die den demokratischen Grundwerten widersprechen. Aus aktuellem Anlass zählen wir ausdrücklich auch die Positionen und die politische Ausrichtung der AfD dazu – sie stehen in klarem Widerspruch zu unseren Überzeugungen. Wer bei uns mitfährt, tritt nicht nur in die Pedale, sondern auch für Respekt, Vielfalt und ein solidarisches Miteinander ein.
-Unsere Ausfahrten sind ein Raum für Menschen, die diese Werte mit uns teilen.
+Wir sind weltoffen und tolerant. Als VELOciraptors Heidelberg stehen wir zu einem Miteinander, das jeder Form von Faschismus, Rassismus und Ausgrenzung entschieden entgegentritt. Wir distanzieren uns von allen Personen und Organisationen, die den demokratischen Grundwerten widersprechen. Aus aktuellem Anlass zählen wir ausdrücklich auch die Positionen und die politische Ausrichtung der AfD dazu – sie stehen in klarem Widerspruch zu unseren Überzeugungen. Wer bei uns mitfährt, tritt nicht nur in die Pedale, sondern auch für Respekt, Vielfalt und ein solidarisches Miteinander ein.Unsere Ausfahrten sind ein Raum für Menschen, die diese Werte mit uns teilen.
 <div style="margin-top: 2.0rem;"></div>
 
 **📸Folgt uns hier:**  
