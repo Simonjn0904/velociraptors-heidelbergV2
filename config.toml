@@ -275,6 +275,7 @@ keywords = [
   "Gruppenfahrten", 
   "Touren"
   ]
+env = "production"
 
 [params.assets]
 customCSS = ["css/custom.css"]

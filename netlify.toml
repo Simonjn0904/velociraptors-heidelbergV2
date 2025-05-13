@@ -1,3 +1,3 @@
 [build]
-command = "hugo --gc --minify -D -b https://velociraptors-heidelberg.com"
-publish = "public"
+  command = "hugo --gc --minify --environment production -b https://velociraptors-heidelberg.com"
+  publish = "public"
