@@ -289,4 +289,4 @@ unsafe = true
   filename = "sitemap.xml"
  
 [outputs]
-home = ["HTML", "RSS", "JSON", "SITEMAP"]
+home = ["HTML", "RSS", "JSON", "SITEMAP", "ROBOTS"]
