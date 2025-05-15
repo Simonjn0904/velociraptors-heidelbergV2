@@ -22,6 +22,8 @@ We are open-minded and tolerant. As VELOciraptors Heidelberg we explicitly commi
 **📸Follow us here:**  
 <div style="margin-top: 2.0rem;"></div>
 
+
+
 <div style="display: flex; justify-content: space-between; gap: 0.5rem; align-items: center; width: 150px;">
   <a href="https://www.instagram.com/velociraptorsheidelberg/" target="_blank" rel="noopener">
     <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/instagram.png'); background-size: contain; background-repeat: no-repeat;"></span>
@@ -34,10 +36,14 @@ We are open-minded and tolerant. As VELOciraptors Heidelberg we explicitly commi
   </a>
 </div>
 
+<div style="margin-top: 2.0rem;"></div>
+
 {{< image-row >}}
   {{< image src="/images/velociraptors-logo3.png" alt="Logo" width="35%" >}}
   {{< image src="/images/gruppe.jpg" alt="Group" width="48%" >}}
 {{< /image-row >}}
+
+<div style="margin-top: 2.0rem;"></div>
 
 **🎥Our intro video:**  
 <div style="margin-top: 2.0rem;"></div>
