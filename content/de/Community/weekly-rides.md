@@ -23,7 +23,7 @@ Jeden Samstag veranstalten wir eine gemeinsame Ausfahrt – der Fokus liegt dabe
 <div style="margin-top: 1.0rem;"></div>
 
 📌 Uferstraße 4, Heidelberg  
-⏰ Jeden Sonntag, 10:30 Uhr
+⏰ Jeden Sonntag, 10:00 Uhr
 <div style="margin-top: 1.0rem;"></div>
 
 Sonntags geht es sportlicher zu: Auf bestimmten Abschnitten fordern wir uns gegenseitig heraus 💨 – nach jedem Abschnitt wird aber wieder gewartet und regrouped 🤝. Voraussetzung ist, dass du dich beim Fahren in der Gruppe und beim Windschattenfahren 🌀 sicher fühlst – eine bestimmte Geschwindigkeit ist aber keine Voraussetzung 🚫🏁. Entscheidend ist eher die Lust auf ein bisschen freundschaftlichen Wettbewerb als die tatsächliche Geschwindigkeit 🚴‍♀️🚴‍♂️💪.
