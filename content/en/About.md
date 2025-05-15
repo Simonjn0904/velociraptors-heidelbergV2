@@ -11,7 +11,7 @@ menu:
 
 **✨🦕 Welcome to the Dinos! 🦖✨**  
 <div style="margin-top: 1.0rem;"></div>
-We are a community of young cyclists who organize weekly rides, regular get-togethers off the bike, and larger cycling events. Our aim is to create a space where everyone – regardless of fitness, experience, or equipment – can enjoy cycling. For us, the focus is on the social side of things. Our goal is to build an inclusive group and create a safe space free from discrimination, where everyone can feel comfortable and welcome! 🚴‍♀️🚴‍♂️🚴  
+We are a community of young cyclists who organize weekly rides, regular get-togethers off the bike, and larger cycling events. Our aim is to create a space where everyone – regardless of fitness, experience, or equipment – can enjoy cycling. For us, the focus is on the social side of things. Our goal is to build an inclusive group and create a safe space free from discrimination, where everyone can feel comfortable and welcome! 🚴‍♀️🚴‍♂️🚴  "How did we actually come up with the name? We owe it to ChatGPT, so please, no AI-bashing! 
 <div style="margin-top: 2.0rem;"></div>
 
 **Diversity instead of exclusion ✊🏻✊🏽✊🏿**  
