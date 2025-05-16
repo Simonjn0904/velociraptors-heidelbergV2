@@ -13,6 +13,12 @@ Wir nehmen regelmäßig an Jedermensch-Rennen teil, spannende Veranstaltungen f�
 Unsere nächsten Jedermensch-Rennen: siehe Kalender
 <div style="margin-top: 1.0rem;"></div>
 
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/jedermenschrennen.jpg" alt="QR Code" width="400">
+</div>
+
+<div style="margin-top: 1.0rem;"></div>
+
 **Lizenzrennen**
 <div style="margin-top: 1.0rem;"></div>
 
@@ -23,6 +29,6 @@ Unsere nächsten Lizenzrennen: siehe Kalender
 <div style="margin-top: 1.0rem;"></div>
 
 <div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/radrennen.jpg" alt="QR Code" width="800">
+  <img src="/images/radrennen.jpg" alt="QR Code" width="400">
 </div>
 

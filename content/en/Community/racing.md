@@ -13,6 +13,12 @@ We regularly take part in open races – exciting events for ambitious amateur c
 Our upcoming open races: see calendar  
 <div style="margin-top: 1.0rem;"></div>
 
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/jedermenschrennen.jpg" alt="QR Code" width="400">
+</div>
+
+<div style="margin-top: 1.0rem;"></div>
+
 **Licensed Races**  
 <div style="margin-top: 1.0rem;"></div>
 
@@ -23,6 +29,6 @@ Our upcoming licensed races: see calendar
 <div style="margin-top: 1.0rem;"></div>
 
 <div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/radrennen.jpg" alt="Race photo" width="800">
+  <img src="/images/radrennen.jpg" alt="Race photo" width="400">
 </div>
 
