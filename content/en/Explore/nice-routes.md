@@ -4,7 +4,7 @@ menu:
 draft: false
 ---
 
-**These are some beautiful routes around Heidelberg!**  
+**These are super nice routes around Heidelberg!**  
 <div style="margin-top: 2.0rem;"></div>
 
 <style>

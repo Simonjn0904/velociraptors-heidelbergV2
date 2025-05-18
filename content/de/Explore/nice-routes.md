@@ -4,7 +4,7 @@ menu:
 draft: false
 ---
 
-**Das sind super nette Strecken in Heidleberg!**
+**Das sind super nette Routen in Heidelberg!**
 <div style="margin-top: 2.0rem;"></div>
 
 
