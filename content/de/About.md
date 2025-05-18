@@ -16,7 +16,7 @@ WWir sind eine engagierte Gruppe junger Radsportbegeisterter, die sich regelmä�
 
 **Vielfalt statt Ausgrenzung✊🏻✊🏽✊🏿**     
 <div style="margin-top: 1.0rem;"></div>
-Wir sind weltoffen und tolerant. Als VELOciraptors Heidelberg stehen wir zu einem Miteinander, das jeder Form von Faschismus, Rassismus und Ausgrenzung entschieden entgegentritt. Wir distanzieren uns von allen Personen und Organisationen, die den demokratischen Grundwerten widersprechen. Aus aktuellem Anlass zählen wir ausdrücklich auch die Positionen und die politische Ausrichtung der AfD dazu – sie stehen in klarem Widerspruch zu unseren Überzeugungen. Wer bei uns mitfährt, tritt nicht nur in die Pedale, sondern auch für Respekt, Vielfalt und ein solidarisches Miteinander ein.Unsere Ausfahrten sind ein Raum für Menschen, die diese Werte mit uns teilen.
+Wir sind weltoffen und tolerant. Als VELOciraptors Heidelberg stehen wir zu einem Miteinander, das jeder Form von Faschismus, Rassismus und Ausgrenzung entschieden entgegentritt. Wir distanzieren uns von allen Personen und Organisationen, die den demokratischen Grundwerten widersprechen. Aus aktuellem Anlass zählen wir ausdrücklich auch die Positionen und die politische Ausrichtung der AfD dazu – sie stehen in klarem Widerspruch zu unseren Überzeugungen. Wer bei uns mitfährt, tritt nicht nur in die Pedale, sondern auch für Respekt, Vielfalt und ein solidarisches Miteinander ein. Unsere Ausfahrten sind ein Raum für Menschen, die diese Werte mit uns teilen.
 <div style="margin-top: 2.0rem;"></div>
 
 **📸Folgt uns hier:**  
