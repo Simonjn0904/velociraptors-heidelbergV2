@@ -11,7 +11,7 @@ menu:
 
 **✨🦕 Willkommen bei den Dinos! 🦖✨**  
 <div style="margin-top: 1.0rem;"></div>
-Wir sind eine engagierte Gruppe junger Radsportbegeisterter, die sich regelmäßig zu gemeinsamen Touren trifft. Neben unseren wöchentlichen Ausfahrten organisieren wir auch Treffen abseits des Fahrrads sowie größere Events rund um den Radsport. Dabei steht für uns der gemeinschaftliche Gedanke im Mittelpunkt – egal, ob gemütliche Ausfahrt, ambitioniertes Training oder Rennteilnahme. Unser Ziel ist es, eine offene und inklusive Community zu schaffen, in der sich alle willkommen fühlen – unabhängig von Fitnesslevel, Erfahrung oder Ausrüstung. Und wie sind wir auf den Namen "VELOciraptors Heidelberg" gekommen? Den verdanken wir ChatGPT – also bitte kein KI-Bashing! 
+Wir sind eine engagierte Gruppe junger Radsportbegeisterter, die sich regelmäßig zu gemeinsamen Touren trifft. Neben unseren wöchentlichen Ausfahrten organisieren wir auch Treffen abseits des Fahrrads sowie größere Events rund um den Radsport. Dabei steht für uns der gemeinschaftliche Gedanke im Mittelpunkt – egal, ob gemütliche Ausfahrt, ambitioniertes Training oder Rennteilnahme. Unser Ziel ist es, eine offene und inklusive Community zu schaffen, in der sich alle willkommen fühlen – unabhängig von Fitnesslevel, Erfahrung oder Ausrüstung. Und wie sind wir auf den Namen "VELOciraptors Heidelberg" gekommen? Den verdanken wir ChatGPT, also bitte kein KI-Bashing! 
 <div style="margin-top: 2.0rem;"></div>
 
 **Vielfalt statt Ausgrenzung✊🏻✊🏽✊🏿**     
