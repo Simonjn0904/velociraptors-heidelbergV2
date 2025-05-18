@@ -7,7 +7,7 @@ draft: false
 **Sticker-Weltkarte**
 <div style="margin-top: 1.5rem;"></div>
 
-Du hast irgendwo auf der Welt einen Velociraptors-Sticker platziert? Hilf uns, die globale Sticker-Karte zu füllen! Trage den Ort einfach ins Formular unten ein – wir fügen deinen Spot zur interaktiven Karte hinzu.
+Du hast irgendwo auf der Welt einen Velociraptors-Sticker platziert? Dann hilf uns, die globale Sticker-Karte zu füllen! Trage den Ort einfach ins Formular unten ein und wir fügen deinen Spot zur interaktiven Karte hinzu.
 
 <div style="margin-top: 1.5rem;"></div>
 
