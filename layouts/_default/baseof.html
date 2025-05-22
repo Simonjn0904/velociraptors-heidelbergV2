@@ -11,11 +11,18 @@
   
   <style>
     body {
-      background-image: url("/images/008.png");
+      background-image: url("/images/008.png"); /* Standard: Desktop */
       background-size: cover;
       background-repeat: repeat-y;
       background-position: top center;
       color: black;
+    }
+
+    /* Für Bildschirme mit einer Breite von maximal 768px (typisch für Handys) */
+    @media (max-width: 768px) {
+      body {
+        background-image: url("/images/background3.png");
+      }
     }
 
     a, h1, h2, h3, h4, h5, h6, p, li, span, div {
