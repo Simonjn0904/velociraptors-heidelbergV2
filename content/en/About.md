@@ -31,7 +31,7 @@ We are open-minded and tolerant. As VELOciraptors Heidelberg we explicitly commi
   <a href="https://www.strava.com/clubs/1194781" target="_blank" rel="noopener">
     <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/strava.png'); background-size: contain; background-repeat: no-repeat;"></span>
   </a>
-  <a href="https://chat.whatsapp.com/CcJK63CQQ4t40IJj1h1R6x" target="_blank" rel="noopener">
+  <a href="https://chat.whatsapp.com/EzMhtXipCytEIUyzVBjZGx" target="_blank" rel="noopener">
     <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/whatsapp.png'); background-size: contain; background-repeat: no-repeat;"></span>
   </a>
 </div>

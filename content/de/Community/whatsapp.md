@@ -7,7 +7,7 @@ draft: false
 Du suchst nach Gleichgesinnten zum Radfahren, Ideenaustausch oder einfach für ein gutes Gespräch? In unserer WhatsApp-Community findest du genau das – und noch viel mehr. Alle wichtigen Neuigkeiten und kommenden Events findest du im Ankündigungskanal. Ob du neu dabei bist oder schon länger – es ist für alle etwas dabei.
 <div style="margin-top: 1.0rem;"></div>
 
-👉 {{< bluelink url="https://chat.whatsapp.com/CcJK63CQQ4t40IJj1h1R6x" text="Hier beitreten" >}}  
+👉 {{< bluelink url="https://chat.whatsapp.com/EzMhtXipCytEIUyzVBjZGx" text="Hier beitreten" >}}  
 *Klicke auf den Link, um loszulegen!*
 
 <div style="margin-top: 1.0rem;"></div>
