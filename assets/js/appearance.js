@@ -1,24 +1,16 @@
+// Darkmode-Logik deaktiviert
 const sitePreference = document.documentElement.getAttribute("data-default-appearance");
 const userPreference = localStorage.getItem("appearance");
 
-if ((sitePreference === "dark" && userPreference === null) || userPreference === "dark") {
-  document.documentElement.classList.add("dark");
-}
+// Diese Bedingung bewirkt nichts mehr
+// document.documentElement.classList.add("dark");
 
 if (document.documentElement.getAttribute("data-auto-appearance") === "true") {
-  if (
-    window.matchMedia &&
-    window.matchMedia("(prefers-color-scheme: dark)").matches &&
-    userPreference !== "light"
-  ) {
-    document.documentElement.classList.add("dark");
-  }
+  // Keine Reaktion mehr auf System-Darkmode
+  // window.matchMedia(...).matches
+  // document.documentElement.classList.add("dark");
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (event) => {
-    if (event.matches) {
-      document.documentElement.classList.add("dark");
-    } else {
-      document.documentElement.classList.remove("dark");
-    }
+    // Keine Änderungen an Klassen
   });
 }
 
@@ -29,16 +21,12 @@ window.addEventListener("DOMContentLoaded", (event) => {
   updateMeta();
   this.updateLogo?.(getTargetAppearance());
 
+  // Umschaltlogik deaktiviert
   if (switcher) {
     switcher.addEventListener("click", () => {
-      document.documentElement.classList.toggle("dark");
-      var targetAppearance = getTargetAppearance();
-      localStorage.setItem(
-        "appearance",
-        targetAppearance
-      );
+      // Kein toggle von .dark, keine Speicherung
       updateMeta();
-      this.updateLogo?.(targetAppearance);
+      this.updateLogo?.(getTargetAppearance());
     });
     switcher.addEventListener("contextmenu", (event) => {
       event.preventDefault();
@@ -47,14 +35,9 @@ window.addEventListener("DOMContentLoaded", (event) => {
   }
   if (switcherMobile) {
     switcherMobile.addEventListener("click", () => {
-      document.documentElement.classList.toggle("dark");
-      var targetAppearance = getTargetAppearance();
-      localStorage.setItem(
-        "appearance",
-        targetAppearance
-      );
+      // Kein toggle von .dark, keine Speicherung
       updateMeta();
-      this.updateLogo?.(targetAppearance);
+      this.updateLogo?.(getTargetAppearance());
     });
     switcherMobile.addEventListener("contextmenu", (event) => {
       event.preventDefault();
@@ -63,7 +46,6 @@ window.addEventListener("DOMContentLoaded", (event) => {
   }
 });
 
-
 var updateMeta = () => {
   var elem, style;
   elem = document.querySelector('body');
@@ -71,6 +53,7 @@ var updateMeta = () => {
   document.querySelector('meta[name="theme-color"]').setAttribute('content', style.backgroundColor);
 }
 
+// Logo-Logik bleibt erhalten
 {{ if and (.Site.Params.Logo) (.Site.Params.SecondaryLogo) }}
 {{ $primaryLogo := resources.Get .Site.Params.Logo }}
 {{ $secondaryLogo := resources.Get .Site.Params.SecondaryLogo }}
@@ -78,7 +61,7 @@ var updateMeta = () => {
 var updateLogo = (targetAppearance) => {
   var imgElems = document.querySelectorAll("img.logo");
   var logoContainers = document.querySelectorAll("span.logo");
-  
+
   targetLogoPath = 
     targetAppearance == "{{ .Site.Params.DefaultAppearance }}" ?
     "{{ $primaryLogo.RelPermalink }}" : "{{ $secondaryLogo.RelPermalink }}"
@@ -98,8 +81,9 @@ var updateLogo = (targetAppearance) => {
 {{ end }}
 {{- end }}
 
+// Immer "light", da kein .dark mehr vorhanden
 var getTargetAppearance = () => {
-  return document.documentElement.classList.contains("dark") ? "dark" : "light"
+  return "light";
 }
 
 window.addEventListener("DOMContentLoaded", (event) => {

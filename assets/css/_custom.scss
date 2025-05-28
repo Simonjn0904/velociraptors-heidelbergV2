@@ -1,15 +1,82 @@
+/* === Hintergrundfarbe für Body (Demo) === */
 body {
-  background-color: red !important;
+  background-color: red !important; /* ggf. ändern */
 }
 
+/* === Textjustierung für besseren Blocksatz === */
 .content p {
   text-align: justify !important;
 }
 
+/* === Fixiertes Hauptmenü oben === */
 .main-menu {
   position: sticky;
   top: 0;
   z-index: 50;
   background-color: white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  white-space: nowrap;
+  overflow-x: auto;
+}
+
+/* === Allgemeine Sidebar-Anpassungen (alle Geräte) === */
+.sidebar, .sidebar-container {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+/* === Logo-Größe begrenzen === */
+.logo img {
+  max-width: 180px;
+  height: auto;
+}
+
+/* === Verbesserung für Mobilgeräte (bis 480px) === */
+@media screen and (max-width: 480px) {
+
+  /* Seitenleiste & Container */
+  .sidebar, .sidebar-container {
+    width: 100vw !important;
+    max-width: 100vw !important;
+    overflow-x: hidden !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  /* Menülesbarkeit */
+  .main-menu {
+    white-space: normal !important;
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+
+  /* Logo kleiner */
+  .logo img {
+    max-width: 140px;
+  }
+
+  /* Menü-Links besser erreichbar */
+  .main-menu a {
+    padding: 0.5rem;
+    display: inline-block;
+    font-weight: 500;
+  }
+
+  /* Optional: Textgröße für Absätze verringern */
+  .content p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+}
+
+/* === Optional: Bessere visuelle Trennung im Menü === */
+.main-menu a:hover {
+  background-color: #f5f5f5;
+  color: #333;
+  border-radius: 0.25rem;
+}
+
+/* === Optional: Weicher Übergang bei Menüpunkten === */
+.main-menu a {
+  transition: background-color 0.2s ease-in-out;
 }

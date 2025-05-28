@@ -280,6 +280,9 @@ env = "production"
 [params.assets]
 customCSS = ["css/custom.css"]
 
+[params.ui]
+  darkModeToggle = false
+
 [markup.goldmark.renderer]
 unsafe = true
 
