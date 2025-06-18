@@ -8,6 +8,8 @@ menu:
     name: About us
     weight: 10
 ---
+<div style="margin-top: 1.0rem;"></div>
+
 
 **✨🦕 Welcome to the Dinos! 🦖✨**  
 <div style="margin-top: 1.0rem;"></div>

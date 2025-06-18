@@ -3,6 +3,7 @@ title: "Contact"
 menu:
 draft: false
 ---
+<div style="margin-top: 1.0rem;"></div>
 
 
 **General email:** [velociraptorshd@gmail.com](mailto:velociraptorshd@gmail.com)

@@ -3,6 +3,7 @@ title: "WhatsApp Community"
 menu:
 draft: false
 ---
+<div style="margin-top: 1.0rem;"></div>
 
 Du suchst nach Gleichgesinnten zum Radfahren, Ideenaustausch oder einfach für ein gutes Gespräch? In unserer WhatsApp-Community findest du genau das – und noch viel mehr. Alle wichtigen Neuigkeiten und kommenden Events findest du im Ankündigungskanal. Ob du neu dabei bist oder schon länger – es ist für alle etwas dabei.
 <div style="margin-top: 1.0rem;"></div>

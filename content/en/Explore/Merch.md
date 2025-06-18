@@ -3,6 +3,7 @@ title: "VELOciraptors Merchandise"
 menu:
 draft: false
 ---
+<div style="margin-top: 1.0rem;"></div>
 
 We're placing another order for jerseys, bottles, and socks for the summer! Please fill out the form **no later than May 18** so we can place the order promptly!
 

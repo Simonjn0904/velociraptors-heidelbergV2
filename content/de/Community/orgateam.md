@@ -3,6 +3,7 @@ title: "Orga-Team"
 menu:
 draft: false
 ---
+<div style="margin-top: 1.0rem;"></div>
 
 **Deine Chance, mitzugestalten**
 <div style="margin-top: 1.0rem;"></div>
