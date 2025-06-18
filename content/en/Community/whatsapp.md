@@ -32,6 +32,12 @@ General organization group – Since we’re a community-led project, we welcome
 Join this group if you want to help shape events and share your ideas.  
 <div style="margin-top: 1.0rem;"></div>
 
+**💛💜FLINTA*only Group**
+
+We would like to introduce a FLINTA* (i.e. women, lesbians, intersex, non-binary, trans and agender) group. The goal is to create a safe space where we can continue to meet casually for rides and exchange ideas, with room for questions, comments, and criticism; anything that might feel difficult or intimidating in 'General'. 🦖
+Anyone who is interested and feels like they might belong here is welcome to join the group. It's important to us that everyone feels safe and comfortable here, whether meeting new people or riding in the group for the first time... 🦕✨
+<div style="margin-top: 1.0rem;"></div>
+
 **🔄 Bike & Gear Exchange**  
 A place to trade, give away, or sell bike gear and accessories.  
 <div style="margin-top: 1.0rem;"></div>
@@ -46,10 +52,6 @@ For anyone who enjoys creating photos, videos, or social media content. You don�
 
 **🦕 Dino Diversity**  
 Our inclusion and diversity group – open to anyone who wants to help create a respectful, diverse, and supportive community. Whether you’re new to cycling or a seasoned rider – you’re welcome!  
-<div style="margin-top: 1.0rem;"></div>
-
-**👕 Jersey**  
-All about our club gear: design, ordering, and coordination. Want to wear a stylish jersey at the next event? Let’s go!  
 <div style="margin-top: 1.0rem;"></div>
 
 **💶 Sponsoring & Finances**  

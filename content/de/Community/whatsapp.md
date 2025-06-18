@@ -31,6 +31,13 @@ Allgemeine Organisationsgruppe – Da wir ein Community-geführtes Projekt sind,
 Tritt dieser Gruppe bei, wenn du Events mitgestalten und deine Ideen einbringen möchtest.
 <div style="margin-top: 1.0rem;"></div>
 
+
+**💛💜FLINTA*only Gruppe**
+
+Für einen geschützten Raum, um sich weiterhin casual für Rides zu verabreden, sich auszutauschen, Fragen zu stellen und auch Anmerkungen und Kritik zu äußern, alles wofür es im 'General' Hürden gibt oder geben kann.  🦖
+Alle Personen, die sich angesprochen fühlen und Interesse haben, können der Gruppe gerne beitreten. Uns ist wichtig, dass sich alle Menschen hier sicher und wohl fühlen, sei es beim Treffen mit neuen Menschen, beim ersten Mal in der Gruppe fahren... 🦕✨
+<div style="margin-top: 1.0rem;"></div>
+
 **🔄 Bike- & Zubehör-Börse**  
 Ein Ort, um Fahrradzubehör zu tauschen, zu verschenken oder zu verkaufen.
 <div style="margin-top: 1.0rem;"></div>
@@ -48,11 +55,6 @@ Gemeinsam zeigen wir, was unsere Community bewegt.
 **🦕 Dino Diversity**  
 Unsere Inklusions- und Diversity-Gruppe – offen für alle, die zu einer respektvollen, vielfältigen und unterstützenden Community beitragen möchten.  
 Egal ob Radneuling oder erfahrene*r Fahrer*in – du bist willkommen!
-<div style="margin-top: 1.0rem;"></div>
-
-**👕 Jersey**  
-Hier dreht sich alles um unsere Vereinskleidung: Design, Bestellung und Koordination.  
-Du willst beim nächsten Event ein stylisches Trikot tragen? Dann los!
 <div style="margin-top: 1.0rem;"></div>
 
 **💶 Sponsoring & Finanzen**  
