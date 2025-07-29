@@ -15,11 +15,38 @@ draft: false
 **Social Ride ☀️🚴‍♂️**
 <div style="margin-top: 1.0rem;"></div>
 
+**Tuesdays**
+<div style="margin-top: 1.0rem;"></div>
+
+📌 Langer Anger 42, 69115 Heidelberg, Germany 
+
+⏰ Every Tuesday, 6:00 PM
+<div style="margin-top: 1.0rem;"></div>
+
+Welcome to our new Tuesday evening after-work social - relaxed pace and good vibes only. ☀️ Come along and ride with us! Start is at "Ruprecht Rides" in the "Bahnstadt". 🦖
+The pace will be set to ensure that the slowest rider can enjoy the ride without feeling like they have to hang on for dear life. The route is announced each week on the Whatsapp group. Feel free to message any of the admins if you have any questions :)
+
+<div style="margin-top: 1.0rem;"></div>
+
+**Saturdays**
+<div style="margin-top: 1.0rem;"></div>
+
 📌 Uferstraße 4, Heidelberg  
 ⏰ Every Saturday, 10:00 AM  
 <div style="margin-top: 1.0rem;"></div>
 
 Every Saturday, we organize a group ride – with a clear focus on the social aspect: the pace is relaxed and invites conversation 🗣️, the vibe is excellent ✨, and most importantly: the ride usually ends with a coffee stop ☕. Beginners, gravel riders 🚵‍♂️, and anyone who doesn’t feel comfortable in performance-focused groups are especially welcome. The pace is adjusted so that even the slowest rider can join in without feeling pressured 🐢. The weekly route is announced in the WhatsApp Announcements Group 📱.
+<div style="margin-top: 3.0rem;"></div>
+
+**Gravel Ride (w/Ruprecht Rides)**
+<div style="margin-top: 1.0rem;"></div>
+
+📌 Langer Anger 42, 69115 Heidelberg, Germany 
+
+⏰ Every Thursday, 6:30 PM
+<div style="margin-top: 1.0rem;"></div>
+
+We ride the weekly gravel ride on Thursdays with Ruprecht Rides. Meeting point in front of the store at 18:30. Bring your jerseys!
 <div style="margin-top: 3.0rem;"></div>
 
 **Fast Ride ⚡🚴‍♀️**

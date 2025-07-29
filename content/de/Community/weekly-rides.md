@@ -11,7 +11,24 @@ draft: false
 
 <div style="margin-top: 2.0rem;"></div>
 
-**Social Ride ☀️🚴‍♂️**
+**Social Rides ☀️🚴‍♂️**
+
+<div style="margin-top: 1.0rem;"></div>
+
+**Dienstags**
+<div style="margin-top: 1.0rem;"></div>
+
+📌 Langer Anger 42, 69115 Heidelberg, Germany 
+
+⏰ Jeden Dienstag, 18:00 Uhr
+<div style="margin-top: 1.0rem;"></div>
+
+Wir präsentieren unsere neue dienstägliche Social Feierabendrunde - entspanntes Tempo und gute Vibes. ☀️ Kommt vorbei und fahrt mit! Start ist bei "Ruprecht Rides" in der Bahnstadt. 🦖
+Das Tempo wählen wir so, dass auch die langsamste Person die Fahrt genießen kann, ohne das Gefühl zu haben, fast abgehängt zu werden. Die Strecke wird angekündigt jede Woche auf der Whatsapp Gruppe. Schreib einfach irgendeinem Admin, wenn du noch Fragen hast :) 
+
+<div style="margin-top: 1.0rem;"></div>
+
+**Samstags**
 <div style="margin-top: 1.0rem;"></div>
 
 📌 Uferstraße 4, Heidelberg  
@@ -19,6 +36,18 @@ draft: false
 <div style="margin-top: 1.0rem;"></div>
 
 Jeden Samstag veranstalten wir eine gemeinsame Ausfahrt – der Fokus liegt dabei ganz klar auf dem Sozialen: Das Tempo ist locker und lädt zu Gesprächen ein 🗣️, die Stimmung ist hervorragend ✨, und am wichtigsten: In der Regel endet die Fahrt mit einem Café-Stopp ☕. Besonders willkommen sind Einsteiger:innen, Fahrer:innen mit Gravelbike 🚵‍♂️ oder alle, die sich in leistungsorientierten Gruppen nicht wohlfühlen. Das Tempo wird so angepasst, dass auch die langsamste Person entspannt mitfahren kann, ohne das Gefühl zu haben, mithalten zu müssen 🐢. Die jeweilige Route wird wöchentlich über die WhatsApp-Announcements-Gruppe 📱 bekannt gegeben.
+<div style="margin-top: 3.0rem;"></div>
+
+**Gravel Ride (w/Ruprecht Rides)**
+<div style="margin-top: 1.0rem;"></div>
+
+📌 Langer Anger 42, 69115 Heidelberg, Germany 
+
+⏰ Jeden Donnerstag, 18:30 Uhr
+<div style="margin-top: 1.0rem;"></div>
+
+Wir fahren donnerstags den wöchentlichen Gravel Ride mit Ruprecht Rides 😊 Treffpunkt vor dem Laden um 18:30. Bringt eure Trikots!
+
 <div style="margin-top: 3.0rem;"></div>
 
 **Fast Ride ⚡🚴‍♀️**
