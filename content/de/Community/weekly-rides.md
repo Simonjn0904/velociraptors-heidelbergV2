@@ -11,7 +11,7 @@ draft: false
 
 <div style="margin-top: 2.0rem;"></div>
 
-**Social Rides ☀️🚴‍♂️**
+**Social Rides ☀️🚴‍♂️:**
 
 <div style="margin-top: 1.0rem;"></div>
 
@@ -36,7 +36,16 @@ Das Tempo wählen wir so, dass auch die langsamste Person die Fahrt genießen ka
 <div style="margin-top: 1.0rem;"></div>
 
 Jeden Samstag veranstalten wir eine gemeinsame Ausfahrt – der Fokus liegt dabei ganz klar auf dem Sozialen: Das Tempo ist locker und lädt zu Gesprächen ein 🗣️, die Stimmung ist hervorragend ✨, und am wichtigsten: In der Regel endet die Fahrt mit einem Café-Stopp ☕. Besonders willkommen sind Einsteiger:innen, Fahrer:innen mit Gravelbike 🚵‍♂️ oder alle, die sich in leistungsorientierten Gruppen nicht wohlfühlen. Das Tempo wird so angepasst, dass auch die langsamste Person entspannt mitfahren kann, ohne das Gefühl zu haben, mithalten zu müssen 🐢. Die jeweilige Route wird wöchentlich über die WhatsApp-Announcements-Gruppe 📱 bekannt gegeben.
-<div style="margin-top: 3.0rem;"></div>
+<div style="margin-top: 1.0rem;"></div>
+
+**FLINTA ride**
+<div style="margin-top: 1.0rem;"></div>
+
+Wir möchten monatliche FLINTA*-Social Rides organisieren. Die genauen Termine und Routen werden in unserer WhatsApp-Community geteilt.
+<div style="margin-top: 1.0rem;"></div>
+
+--- 
+<div style="margin-top: 1.0rem;"></div>
 
 **Gravel Ride (w/Ruprecht Rides)**
 <div style="margin-top: 1.0rem;"></div>
@@ -48,21 +57,50 @@ Jeden Samstag veranstalten wir eine gemeinsame Ausfahrt – der Fokus liegt dabe
 
 Wir fahren donnerstags den wöchentlichen Gravel Ride mit Ruprecht Rides 😊 Treffpunkt vor dem Laden um 18:30. Bringt eure Trikots!
 
-<div style="margin-top: 3.0rem;"></div>
-
-**Fast Ride ⚡🚴‍♀️**
 <div style="margin-top: 1.0rem;"></div>
 
-📌 Uferstraße 4, Heidelberg  
-⏰ Jeden Sonntag, 10:00 Uhr
+---
+
 <div style="margin-top: 1.0rem;"></div>
 
-Sonntags geht es sportlicher zu: Auf bestimmten Abschnitten fordern wir uns gegenseitig heraus 💨 – nach jedem Abschnitt wird aber wieder gewartet und regrouped 🤝. Voraussetzung ist, dass du dich beim Fahren in der Gruppe und beim Windschattenfahren 🌀 sicher fühlst – eine bestimmte Geschwindigkeit ist aber keine Voraussetzung 🚫🏁. Entscheidend ist eher die Lust auf ein bisschen freundschaftlichen Wettbewerb als die tatsächliche Geschwindigkeit 🚴‍♀️🚴‍♂️💪.
+**Fortgeschrittenen-Ausfahrt**
+<div style="margin-top: 1.0rem;"></div> <div style="margin-top: 1.0rem;"></div>
+
+📌 Uferstraße 4, Heidelberg
+
+⏰ Jeden Mittwoch, 18:00 Uhr
+
 <div style="margin-top: 1.0rem;"></div>
 
-Die Tour wird immer von jemandem geführt 👋, der dafür sorgt, dass sich alle mit Tempo und Gruppendynamik wohlfühlen. Wir wechseln zwischen der flachen Rheindamm-Strecke 🌊 und hügeligen Routen ⛰️. Das Grundprinzip bleibt gleich: Wir fahren zügig, fordern uns gegenseitig heraus – aber niemand wird zurückgelassen 🫂.  
-Auch bei hohem Tempo und brennenden Oberschenkeln 🧬😉 gilt: Wir kümmern uns umeinander und beenden die Tour gemeinsam.
-<div style="margin-top: 3.0rem;"></div>
+Da es wiederholt Anfragen nach schnelleren Ausfahrten gab, wird es diesen Mittwoch eine Advanced Ride geben, ähnlich wie es manche von euch vielleicht vom Unisport kennen. Wenn du schon länger fährst und auf der Suche nach etwas mehr Herausforderung bist, bist du hier genau richtig:
+<div style="margin-top: 1.0rem;"></div>
+
+⚡️ Durchschnittsgeschwindigkeit: 25–30 km/h
+
+⛰️ Anstiege: Oben wird kurz gewartet, bis alle angekommen sind
+
+⚠️ Sicherheit: Hindernisse und Gefahrenstellen werden stets angezeigt
+<div style="margin-top: 1.0rem;"></div>
+
+Teilnahmevoraussetzungen:
+<div style="margin-top: 1.0rem;"></div>
+
+✔️ Funktionierendes Rennrad oder Gravelbike
+
+✔️ Klickpedale
+
+✔️ Ersatzschlauch + Pumpe & Helm
+
+✔️ StVO-konformes Fahren & ausreichend Verpflegung
+
+✔️  Route aufs Navi ziehen (wenn möglich)
+<div style="margin-top: 1.0rem;"></div>
+
+Wichtig: Der Spaß am Fahren steht im Vordergrund. Erfahrene Fahrer:innen sind willkommen, sollten sich aber dem Tempo der Gruppe anpassen. Auf alle wird gewartet – niemand bleibt zurück.
+<div style="margin-top: 1.0rem;"></div>
+
+---
+<div style="margin-top: 1.0rem;"></div>
 
 **Treffpunkt** 
 <div style="margin-top: 1.0rem;"></div>
