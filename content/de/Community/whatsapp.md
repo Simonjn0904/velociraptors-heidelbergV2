@@ -13,10 +13,6 @@ Du suchst nach Gleichgesinnten zum Radfahren, Ideenaustausch oder einfach für e
 
 <div style="margin-top: 1.0rem;"></div>
 
-<div style="margin-top: 2rem;">
-  <img src="/images/Whatsappqrcode.png" alt="QR Code" width="200" style="display: block; margin: 0 auto;">
-</div>
-
 <div style="margin-top: 4.0rem;"></div>
 
 **Übersicht über die Gruppen**

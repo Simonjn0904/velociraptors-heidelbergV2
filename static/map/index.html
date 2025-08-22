@@ -49,11 +49,17 @@
     popupAnchor: [0, -80]
   });
 
-  // Treffpunkt
+  // Treffpunkt Uferstraße
   L.marker([49.41325, 8.6919444], { icon: meetup })
     .addTo(map)
-    .bindTooltip("<b style='color:red;'>Meeting point for the weekly rides</b>", { permanent: true, direction: "right", offset: [10, 0] });
+    .bindTooltip("<b style='color:red;'>Meeting point Uferstraße</b>", { permanent: true, direction: "right", offset: [10, 0] });
 
+
+  // Treffpunkt Ruprechtrides
+  L.marker([49.400583, 8.669750], { icon: meetup })
+    .addTo(map)
+    .bindTooltip("<b style='color:red;'>Meeting point Ruprecht Rides</b>", { permanent: true, direction: "right", offset: [10, 0] });
+    
   // Marker  – Ludwigshöhe, Straßlach-Dingharting (z. B. "Tom")
   L.marker([47.9675, 11.5147], { icon: dinoIcon })
     .addTo(map)
@@ -422,6 +428,60 @@ L.marker([43.392100, 10.748600], { icon: dinoIcon })
   .addTo(map)
   .bindTooltip(
     '<div class="custom-tooltip">Sticker, Teddy, 26.05.2025, <a href="/images/Teddy_14.png" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+// Marker 31 – Arne
+L.marker([46.775600, 8.158450], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Arne, 18.08.2025, <a href="/images/arne_01.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+
+// Marker 32 – Arne_02
+L.marker([46.561956, 8.336742], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Arne, 19.08.2025, <a href="/images/Arne_02.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+
+// Marker 33 – Arne_03
+L.marker([46.571617, 8.409367], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Arne, 19.08.2025, <a href="/images/Arne_03.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
+// Marker 34 – Arne_04
+L.marker([46.658706,8.671150], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Arne, 20.08.2025, <a href="/images/Arne_04.jpg" target="_blank">Picture</a></div>',
     {
       permanent: true,
       direction: 'right',
