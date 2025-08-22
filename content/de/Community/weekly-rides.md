@@ -102,6 +102,24 @@ Wichtig: Der Spaß am Fahren steht im Vordergrund. Erfahrene Fahrer:innen sind w
 ---
 <div style="margin-top: 1.0rem;"></div>
 
+**✅ Checkliste für unsere Gruppenradfahrten**
+<div style="margin-top: 1.0rem;"></div>
+ 
+- 🚦 Beachte die Straßenverkehrsordnung (keine riskanten Manöver, kein freihändiges Fahren)  
+- 🚫 Keine plötzlichen Bremsungen  
+- ✋ Verwende Handzeichen: links/rechts, Hindernis, Achtung, Stopp  
+- 🐢 Tempo: "Social Ride Pace" – sag Bescheid, wenn es zu schnell wird  
+- 🧗‍♀️ Anstiege: Jede:r in seinem/ihrem Tempo, wir warten oben (Schnelle Fahrer:innen können zurückrollen und andere begleiten)  
+- ⛰️ Abfahrten: Immer langsam & vorsichtig fahren  
+- 🫂 0%-Diskriminierung: Sprich an, wenn du dich unwohl fühlst – die Gruppe unterstützt dich  
+
+
+<div style="margin-top: 1.0rem;"></div>
+
+---
+
+<div style="margin-top: 1.0rem;"></div>
+
 **Treffpunkt** 
 <div style="margin-top: 1.0rem;"></div>
 

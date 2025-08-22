@@ -99,6 +99,24 @@ Important: The focus is on having fun riding. Experienced riders are welcome, bu
 <div style="margin-top: 1.0rem;"></div>
 
 ---
+
+<div style="margin-top: 1.0rem;"></div>
+
+**✅ Checklist for our group rides**
+<div style="margin-top: 1.0rem;"></div>
+ 
+- 🚦 Follow traffic laws (no risky maneuvers, no hands-free riding)  
+- 🚫 No sudden braking  
+- ✋ Use hand signals: left/right, obstacle, caution, stop  
+- 🐢 Pace: "Social Ride Pace" – speak up if it feels too fast  
+- 🧗‍♀️ Climbs: Everyone at their own pace, we wait at the top (faster riders are encouraged to roll back and support others)  
+- ⛰️ Descents: Always ride slowly & carefully  
+- 🫂 0% discrimination policy: Speak up if you feel uncomfortable – the group will support you  
+
+<div style="margin-top: 1.0rem;"></div>
+
+---
+
 <div style="margin-top: 1.0rem;"></div>
 
 **Meeting Point**  
