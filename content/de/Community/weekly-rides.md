@@ -6,7 +6,7 @@ draft: false
 <div style="margin-top: 1.0rem;"></div>
 
 <div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/ausfahrt.jpg" alt="QR Code" width="400">
+  <img src="/images/gruppe3.jpg" alt="QR Code" width="600">
 </div>
 
 <div style="margin-top: 2.0rem;"></div>

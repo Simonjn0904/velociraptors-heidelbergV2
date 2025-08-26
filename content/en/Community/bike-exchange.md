@@ -20,3 +20,11 @@ For this concept to work, we need your support! If you have a bike you’d consi
   height="600" 
   frameborder="0">
 </iframe>
+
+
+
+<div style="margin-top: 2.0rem;"></div>
+
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/056.jpg" alt="QR Code" style="width: 100%;">
+</div>

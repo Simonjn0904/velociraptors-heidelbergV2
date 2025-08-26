@@ -47,3 +47,17 @@ Wir sind weltoffen und tolerant. Als VELOciraptors Heidelberg stehen wir zu eine
 **🎥Unser Vorstellungsvideo:**  
 <div style="margin-top: 2.0rem;"></div>
 {{< youtube u11EQXmMvj0 >}}
+
+<div style="margin-top: 2.0rem;"></div>
+
+
+
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/016.jpg" alt="QR Code" style="width: 100%;">
+</div>
+
+
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/079.jpg" alt="QR Code" style="width: 100%;">
+</div>
+

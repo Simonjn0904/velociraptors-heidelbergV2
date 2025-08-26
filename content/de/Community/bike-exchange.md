@@ -22,3 +22,10 @@ Damit das Konzept fuktioniert brauchen wir deine Unterstützung! Wenn du ein Fah
   height="600" 
   frameborder="0">
 </iframe>
+
+
+<div style="margin-top: 2.0rem;"></div>
+
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/056.jpg" alt="QR Code" style="width: 100%;">
+</div>

@@ -50,3 +50,14 @@ We are open-minded and tolerant. As VELOciraptors Heidelberg we explicitly commi
 **🎥Our intro video:**  
 <div style="margin-top: 2.0rem;"></div>
 {{< youtube u11EQXmMvj0 >}}
+
+
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/016.jpg" alt="QR Code" style="width: 100%;">
+</div>
+
+
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/079.jpg" alt="QR Code" style="width: 100%;">
+</div>
+

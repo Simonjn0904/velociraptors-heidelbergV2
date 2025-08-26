@@ -33,6 +33,11 @@
     display: block;
   }
 
+  /* NEU: Hover-Effekt deaktivieren, solange Fancybox aktiv ist */
+  html.is-using-fancybox .gallery-item:hover {
+    transform: none;
+  }
+
   @media (max-width: 768px) {
     .gallery-grid {
       grid-template-columns: repeat(2, 1fr);
@@ -61,3 +66,10 @@
     {{ end }}
   {{ end }}
 </div>
+
+<!-- NEU: Fancybox explizit binden, damit der Link nicht "darunter" navigiert -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    Fancybox.bind('[data-fancybox="gallery"]');
+  });
+</script>

@@ -15,7 +15,7 @@ Address: Im Fuchsloch 18, 69221 Dossenheim, Germany
 <div style="margin-top: 2.0rem;"></div>
 
 <div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/simon.jpg" alt="QR Code" width="400">
+  <img src="/images/033.jpg" alt="QR Code" width="400">
 </div>
 
 <div style="margin-top: 2.0rem;"></div>
