@@ -61,3 +61,6 @@ We are open-minded and tolerant. As VELOciraptors Heidelberg we explicitly commi
   <img src="/images/079.jpg" alt="QR Code" style="width: 100%;">
 </div>
 
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/055.jpg" alt="QR Code" style="width: 100%;">
+</div>
