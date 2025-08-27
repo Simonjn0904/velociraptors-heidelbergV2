@@ -5,8 +5,14 @@ draft: false
 ---
 <div style="margin-top: 1.0rem;"></div>
 
+**Kontakt:**
+
+velociraptorshd@gmail.com 
+
+<div style="margin-top: 1.0rem;"></div>
+
 **Verantwortlich für den Inhalt dieser Website:**  
-<div style="margin-top: 2.0rem;"></div>
+<div style="margin-top: 1.0rem;"></div>
 
 **Simon Janus**  
 E-Mail: [simon.janus02@gmail.com](mailto:simon.janus02@gmail.com)  
