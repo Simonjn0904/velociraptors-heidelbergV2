@@ -12,6 +12,9 @@ draft: false
 
 Der ADFC Heidelberg ist der lokale Ableger des Allgemeinen Deutschen Fahrrad-Clubs. Sie setzen sich hier in der Region für bessere Radverkehrsbedingungen, sichere Infrastruktur und eine nachhaltige Verkehrswende ein. Neben politischen Gesprächen, Raddemos und Aktionen organisieren sie Veranstaltungen für alle, die gerne Rad fahren.
 Der junge ADFC Heidelberg – ihre Jugendgruppe – sucht aktuell Leute, die Lust haben, bei der Verkehrspädagogik mitzumachen. Konkret geht es darum, Kindern und Jugendlichen spielerisch sicheres und selbstbewusstes Radfahren näherzubringen. Die Arbeit wird vergütet. **[Hier](https://rhein-neckar.adfc.de/verkehrspaedagogik)** findet ihr mehr Infos. Wenn ihr Lust habt, euch einzubringen, meldet euch da gerne!
+<div style="margin-top: 1.0rem;"></div>
+
+Instagram: (https://www.instagram.com/junger_adfc_rhein_neckar/)
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/logo_adfc.png" alt="QR Code" width="200">
