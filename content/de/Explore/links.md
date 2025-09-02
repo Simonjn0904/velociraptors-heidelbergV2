@@ -30,7 +30,7 @@ Initiative für bessere Radinfrastruktur, sichere Wege und nachhaltige Mobilitä
 
 **Stadtjugendring Heidelberg ([Link](https://www.sjr-heidelberg.de/))** 
 
-Der Stadtjugendring Heidelberg ist ein Zusammenschluss von Jugendverbänden, -vereinen und -initiativen in Heidelberg, der als Dachorganisation die Interessen junger Menschen in der Stadt vertritt. Er setzt sich für die Förderung von Kinder- und Jugendarbeit ein, unterstützt Mitgliedsorganisationen organisatorisch wie finanziell und bietet Plattformen für Austausch, Vernetzung und Kooperation. Darüber hinaus vertritt der Stadtjugendring die Anliegen von Jugendlichen gegenüber Politik, Verwaltung und Öffentlichkeit, organisiert eigene Projekte und Veranstaltungen und trägt damit aktiv zur Stärkung von Jugendbeteiligung, demokratischer Mitgestaltung und sozialer Vielfalt in Heidelberg bei.
+Der Stadtjugendring Heidelberg ist ein Zusammenschluss von Jugendverbänden, -vereinen und -initiativen in Heidelberg, der als Dachorganisation die Interessen junger Menschen in der Stadt vertritt. Er setzt sich für die Förderung von Kinder- und Jugendarbeit ein, unterstützt Mitgliedsorganisationen organisatorisch wie finanziell und bietet Plattformen für Austausch, Vernetzung und Kooperation. Darüber hinaus vertritt der Stadtjugendring die Anliegen von Jugendlichen gegenüber Politik, Verwaltung und Öffentlichkeit, organisiert eigene Projekte und Veranstaltungen und trägt damit aktiv zur Stärkung von Jugendbeteiligung, demokratischer Mitgestaltung und sozialer Vielfalt in Heidelberg bei. Mit dem Verein schauen wir zum Beispiel das Open-Air Fahrradkino.
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/logo_sjr.png" alt="QR Code" width="200">
