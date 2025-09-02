@@ -40,7 +40,7 @@ Der Stadtjugendring Heidelberg ist ein Zusammenschluss von Jugendverbänden, -ve
 
 **Bezahlkarte stoppen Heidelberg ([Link](https://bezahlkarte-stoppen.de/de/))**
 
-Hat nichts mit Radeln zu tun, aber sicherlich interessant für alle solidarischen Dinos! „Bezahlkarte stoppen Heidelberg“ ist ein Bündnis, das sich gegen die Einführung der Bezahlkarte für Geflüchtete in Heidelberg engagiert. Um den Geflüchteten trotz der Einschränkungen mehr Handlungsspielräume zu verschaffen, organisiert die Initiative eine Tauschbörse: Geflüchtete bringen dabei Gutscheine im Wert von 50 Euro, die sie über die Bezahlkarte erhalten haben, und solidarische Unterstützer:innen kaufen diese Gutscheine ab. Auf diese Weise wird das Guthaben wieder in Bargeld umgewandelt, wodurch Betroffene freier über ihr Geld verfügen können, während gleichzeitig ein Zeichen der Solidarität gesetzt wird.
+Hat nichts mit Radeln zu tun, aber sicherlich interessant für alle solidarischen Dinos! „Bezahlkarte stoppen Heidelberg“ ist ein Bündnis, das sich gegen die Einführung der Bezahlkarte für Geflüchtete in Heidelberg engagiert. Um den Geflüchteten trotz der Einschränkungen mehr Handlungsspielräume zu verschaffen, organisiert die Initiative eine Tauschbörse: Geflüchtete bringen dabei Gutscheine im Wert von 50 Euro (z.B. Aldi, Rewe), die sie über die Bezahlkarte erhalten haben, und solidarische Unterstützer:innen kaufen diese Gutscheine ab. Auf diese Weise wird das Guthaben wieder in Bargeld umgewandelt, wodurch Betroffene freier über ihr Geld verfügen können, während gleichzeitig ein Zeichen der Solidarität gesetzt wird.
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/logo_bezahlkarte-stoppen.png" alt="QR Code" width="200">
@@ -58,14 +58,16 @@ Kein Schritt nach Rechts ist ein zivilgesellschaftliches Bündnis in Heidelberg,
 
 <div style="margin-top: 2.0rem;"></div>
 
-**Bund Deutscher Radfahrer (BDR)/ German Cycling ([Link](https://www.rad-net.de))** 
+**Jugenhilfe Ostafrika e.V. ([Link](https://www.jugendhilfe-ostafrika.de/))** 
 
-Offizielle Plattform für Lizenzen, Rennsport und Verbandsinformationen im deutschen Radsport.
+Die Jugendhilfe Ostafrika e.V. ist ein gemeinnütziger Verein, der seit über 30 Jahren Projekte in Uganda unterstützt. Schwerpunkte sind Mobilität, Bildung und Klimaschutz: Fahrräder werden über Patenschaften finanziert und an Familien, Selbsthilfegruppen oder Menschen mit Behinderungen vergeben, um Transport, Einkommen und Bildungschancen zu verbessern. Begleitet werden zudem Kinderprojekte in Jinja und Fort Portal. Zusätzlich forstet der Verein Flächen auf. Für 90 € kann ein Fahrrad gespendet oder anteilig mitfinanziert werden.
+
 <div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/logo_bdr.jpg" alt="QR Code" width="200">
+  <img src="/images/logo_ostafrika.jpg" alt="QR Code" width="200">
 </div>
 
 <div style="margin-top: 2.0rem;"></div>
+
 
 **Radläden**
 

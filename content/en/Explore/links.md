@@ -58,11 +58,12 @@ No Step to the Right is a civil society alliance in Heidelberg that positions it
 
 <div style="margin-top: 2.0rem;"></div>
 
-**Bund Deutscher Radfahrer (BDR)/ German Cycling ([Link](https://www.rad-net.de))** 
+**Jugenhilfe Ostafrika e.V. ([Link](https://www.jugendhilfe-ostafrika.de/))** 
 
-Official platform for licenses, competitive cycling, and federation information in German cycling.
+The Youth Aid East Africa Association (Jugendhilfe Ostafrika e.V.) is a non-profit organization that has been supporting projects in Uganda for over 30 years. Its focus areas are mobility, education, and climate protection: bicycles are financed through sponsorships and given to families, self-help groups, or people with disabilities to improve transportation and educational opportunities. In addition, the association supports children’s projects in Jinja and Fort Portal as well as reforestation initiatives. A bicycle can be donated in full for €90 or co-financed with a partial contribution.
+
 <div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/logo_bdr.jpg" alt="QR Code" width="200">
+  <img src="/images/logo_ostafrika.jpg" alt="QR Code" width="200">
 </div>
 
 <div style="margin-top: 2.0rem;"></div>
