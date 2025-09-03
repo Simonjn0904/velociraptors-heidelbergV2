@@ -8,7 +8,7 @@ draft: false
 **Politics and Cycling Initiatives**
 <div style="margin-top: 2.0rem;"></div>
 
-**ADFC Rhein-Neckar ([Link](https://rhein-neckar.adfc.de))**
+**Young ADFC Rhein-Neckar ([Link](https://rhein-neckar.adfc.de))**
 
 ADFC Heidelberg is the local branch of the Allgemeiner Deutscher Fahrrad-Club (General German Bicycle Club). In this region, they advocate for better cycling conditions, safer infrastructure, and a sustainable mobility transition. In addition to political talks, cycling demos, and actions, they organize events for everyone who enjoys riding bikes.  
 The young ADFC Heidelberg – their youth group – is currently looking for people interested in supporting traffic education. Specifically, it’s about teaching children and young people safe and confident cycling in a playful way. The work is paid. **[Here](https://rhein-neckar.adfc.de/verkehrspaedagogik)** you can find more info. If you’d like to get involved, feel free to reach out!

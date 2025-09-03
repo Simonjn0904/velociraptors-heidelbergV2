@@ -40,10 +40,6 @@ Anyone who is interested and feels like they might belong here is welcome to joi
 A place to trade, give away, or sell bike gear and accessories.  
 <div style="margin-top: 1.0rem;"></div>
 
-**🌍 Cycling Camp Orga**  
-We’re (very vaguely) planning a cycling holiday camp in September – more of a training camp with a social vibe. Join if you want to help organize it!  
-<div style="margin-top: 1.0rem;"></div>
-
 **🎥 Media Team**  
 For anyone who enjoys creating photos, videos, or social media content. You don’t need to be a pro – motivation is enough! Together we show what moves our community.  
 <div style="margin-top: 1.0rem;"></div>

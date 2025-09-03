@@ -40,11 +40,6 @@ Alle Personen, die sich angesprochen fühlen und Interesse haben, können der Gr
 Ein Ort, um Fahrradzubehör zu tauschen, zu verschenken oder zu verkaufen.
 <div style="margin-top: 1.0rem;"></div>
 
-**🌍 Cycling Camp Orga**  
-Wir planen (noch sehr vage) ein gemeinsames Radurlaubscamp im September – eher ein Trainingslager mit sozialem Fokus.  
-Tritt bei, wenn du bei der Organisation helfen möchtest!
-<div style="margin-top: 1.0rem;"></div>
-
 **🎥 Mediateam**  
 Für alle, die gerne Fotos, Videos oder Social-Media-Inhalte erstellen. Du musst kein Profi sein – Motivation reicht!  
 Gemeinsam zeigen wir, was unsere Community bewegt.
