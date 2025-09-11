@@ -7,25 +7,12 @@ draft: false
 
 
 <div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/016.jpg" alt="QR Code" width="600">
+  <img src="/images/gruppe3.jpg" alt="QR Code" width="600">
 </div>
 
 <div style="margin-top: 2.0rem;"></div>
 
 **Social Rides ☀️🚴‍♂️**
-<div style="margin-top: 1.0rem;"></div>
-
-**Tuesdays**
-<div style="margin-top: 1.0rem;"></div>
-
-📌 Langer Anger 42, 69115 Heidelberg, Germany 
-
-⏰ Every Tuesday, 6:00 PM
-<div style="margin-top: 1.0rem;"></div>
-
-Welcome to our new Tuesday evening after-work social - relaxed pace and good vibes only. ☀️ Come along and ride with us! Start is at "Ruprecht Rides" in the "Bahnstadt". 🦖
-The pace will be set to ensure that the slowest rider can enjoy the ride without feeling like they have to hang on for dear life. The route is announced each week on the Whatsapp group. Feel free to message any of the admins if you have any questions :)
-
 <div style="margin-top: 1.0rem;"></div>
 
 **Saturdays**
@@ -57,45 +44,6 @@ We want to organize monthly FLINTA* social rides. Exact dates and routes will be
 <div style="margin-top: 1.0rem;"></div>
 
 We ride the weekly gravel ride on Thursdays with Ruprecht Rides. Meeting point in front of the store at 18:30. Bring your jerseys!
-<div style="margin-top: 1.0rem;"></div>
-
----
-
-<div style="margin-top: 1.0rem;"></div>
-
-**Advanced ride**
-<div style="margin-top: 1.0rem;"></div>
-<div style="margin-top: 1.0rem;"></div>
-
-📌 Uferstraße 4, Heidelberg  
-⏰ Every wednesday, 18:00 PM  
-<div style="margin-top: 1.0rem;"></div>
-
-Since there have been repeated requests for faster rides, there will be an advanced ride this Wednesday, similar to what some of you may be familiar with from “Unisport”. If you've been riding for a while and are looking for a bit more of a challenge, this is the place for you:
-<div style="margin-top: 1.0rem;"></div>
-
-⚡️ Average Speed: 25–30 km/h
-
-⛰️ Climbs: We will wait briefly at the top until everyone has arrived
-
-⚠️ Safety: Obstacles and hazards will always be indicated
-<div style="margin-top: 1.0rem;"></div>
-
-Participation requirements:
-<div style="margin-top: 1.0rem;"></div>
-
-✔️ Functional road bike or gravel bike
-
-✔️ Clipless pedals
-
-✔️ Spare inner tube + pump & helmet
-
-✔️ StvO-compliant riding & sufficient food & drink
-
-✔️ Download the route to your Strava (if possible)
-<div style="margin-top: 1.0rem;"></div>
-
-Important: The focus is on having fun riding. Experienced riders are welcome, but should adapt to the pace of the group. Everyone will be waited for and no one will be left behind.
 <div style="margin-top: 1.0rem;"></div>
 
 ---
