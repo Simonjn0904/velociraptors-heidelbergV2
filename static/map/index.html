@@ -503,6 +503,19 @@ L.marker([46.90539, 11.09726], { icon: dinoIcon })
     }
   );
 
+// Marker – Simon_01
+L.marker([43.293556, 5.382889], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Simon, 22.09.2025, <a href="/images/Simon_01.jpg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
 </script>
 
 </body>
