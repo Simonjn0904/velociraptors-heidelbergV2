@@ -41,7 +41,7 @@ We are open-minded and tolerant. As VELOciraptors Heidelberg we explicitly commi
 <div style="margin-top: 2.0rem;"></div>
 
 {{< image-row >}}
-  {{< image src="/images/velociraptors-logo3.png" alt="Logo" width="35%" >}}
+  {{< image src="/images/velociraptors-logo5.png" alt="Logo" width="35%" >}}
   {{< image src="/images/gruppe.jpg" alt="Group" width="48%" >}}
 {{< /image-row >}}
 

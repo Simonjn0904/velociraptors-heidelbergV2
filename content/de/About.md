@@ -38,7 +38,7 @@ Wir sind weltoffen und tolerant. Als VELOciraptors Heidelberg stehen wir zu eine
 <div style="margin-top: 2.0rem;"></div>
 
 {{< image-row >}}
-  {{< image src="/images/velociraptors-logo3.png" alt="Logo" width="35%" >}}
+  {{< image src="/images/velociraptors-logo5.png" alt="Logo" width="35%" >}}
   {{< image src="/images/gruppe.jpg" alt="Gruppe" width="52%" >}}
 {{< /image-row >}}
 
