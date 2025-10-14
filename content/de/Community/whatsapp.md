@@ -69,5 +69,5 @@ Niemand will wirklich Kniebeugen machen… aber wir alle sollten!
 <div style="margin-top: 1.0rem;"></div>
 
 <div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/background.jpg" alt="QR Code" width="800">
+  <img src="/images/background.jpg" alt="QR Code" style="width: 100%;">
 </div>

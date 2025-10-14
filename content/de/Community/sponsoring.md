@@ -32,5 +32,5 @@ Bank: Deutsche Kreditbank AG (DKB)
 <div style="margin-top: 2.0rem;"></div>
 
 <div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/050.jpg" alt="QR Code" width="400">
+  <img src="/images/050.jpg" alt="QR Code" style="width: 100%;">
 </div>
