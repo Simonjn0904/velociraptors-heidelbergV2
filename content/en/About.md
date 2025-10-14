@@ -41,8 +41,8 @@ We see ourselves as politically independent but socially conscious. For us, cycl
 <div style="margin-top: 2.0rem;"></div>
 
 {{< image-row >}}
-  {{< image src="/images/velociraptors-logo5.png" alt="Logo" width="37%" >}}
-  {{< image src="/images/gruppe.jpg" alt="Group" width="60%" >}}
+  {{< image src="/images/velociraptors-logo5.png" alt="Logo" width="32%" >}}
+  {{< image src="/images/gruppe.jpg" alt="Group" width="55%" >}}
 {{< /image-row >}}
 
 <div style="margin-top: 2.0rem;"></div>
