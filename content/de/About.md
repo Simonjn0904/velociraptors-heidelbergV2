@@ -38,8 +38,8 @@ Wir verstehen uns als parteipolitisch unabhängig, aber gesellschaftlich bewusst
 <div style="margin-top: 2.0rem;"></div>
 
 {{< image-row >}}
-  {{< image src="/images/velociraptors-logo5.png" alt="Logo" width="35%" >}}
-  {{< image src="/images/gruppe.jpg" alt="Gruppe" width="52%" >}}
+  {{< image src="/images/velociraptors-logo5.png" alt="Logo" width="37%" >}}
+  {{< image src="/images/gruppe.jpg" alt="Gruppe" width="60%" >}}
 {{< /image-row >}}
 
 <div style="margin-top: 2.0rem;"></div>
