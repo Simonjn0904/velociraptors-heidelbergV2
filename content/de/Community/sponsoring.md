@@ -8,7 +8,7 @@ draft: false
 **Als Sponsor🫶🏼**
 <div style="margin-top: 1.0rem;"></div>
 
-Die VELOciraptors Heidelberg sind weit mehr als nur eine Gruppe von Radbegeisterten. Wir stehen für Gemeinschaft, Bewegung, Offenheit und Teilhabe am Radsport – unabhängig von Leistung, Herkunft oder finanziellen Möglichkeiten. Um unsere bisherigen Aktivitäten wie Ausfahrten, gemeinschaftliches Training und unser eigenes Merchandise langfristig aufrechtzuerhalten und weiterzuentwickeln, sind wir auf finanzielle Unterstützung angewiesen.
+Unsere Community ist weit mehr als nur eine Gruppe von Radbegeisterten. Wir stehen für Gemeinschaft, Bewegung, Offenheit und Teilhabe am Radsport – unabhängig von Leistung, Herkunft oder finanziellen Möglichkeiten. Um unsere bisherigen Aktivitäten wie Ausfahrten, gemeinschaftliches Training und unser eigenes Merchandise langfristig aufrechtzuerhalten und weiterzuentwickeln, sind wir auf finanzielle Unterstützung angewiesen.
 <div style="margin-top: 1.0rem;"></div>
 
 Durch Sponsoring möchten wir nicht nur unser äußeres Erscheinungsbild stärken – etwa mit neuen Trikots, Flaschen oder organisatorischem Material –, sondern auch Raum für neue Ideen und Entwicklungen schaffen. Dazu zählen die Planung eines offenen Radrennens in Heidelberg, das Menschen aller Leistungsniveaus zusammenbringt, sowie die Umsetzung sozial engagierter Projekte im Radsportkontext: zum Beispiel eine mobile Fahrradwerkstatt, Leihrennräder für Menschen mit begrenzten finanziellen Mitteln oder die gezielte Förderung des Jugendradsports. Unser übergeordnetes Ziel ist es, den Zugang zum Radsport für möglichst viele Menschen zu erleichtern – besonders für jene, die bislang kaum Teilhabe erfahren.
