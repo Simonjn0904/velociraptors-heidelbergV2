@@ -27,6 +27,12 @@ draft: false
   </a>
 </div>
 
+<div style="margin-top: 2rem; text-align: left;">
+  VELOciraptors Heidelberg e.V. Statutes:
+  <a href="/documents/Satzung.pdf" target="_blank" rel="noopener">
+    click here
+  </a>
+</div>
 
 
 
