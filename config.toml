@@ -62,13 +62,19 @@ defaultContentLanguageInSubdir = true
         parent = "Mitmachen"
         name = "Orga-Team"
         pageRef = "community/orgateam"
-        weight = 6
+        weight = 7
 
         [[languages.de.menu.main]]
         parent = "Mitmachen"
         name = "Unterstützen"
         pageRef = "community/sponsoring"
-        weight = 6
+        weight = 8
+
+        [[languages.de.menu.main]]
+        parent = "Mitmachen"
+        name = "Awareness"
+        pageRef = "community/Awareness"
+        weight = 9
 
       [[languages.de.menu.main]]
       name = "Entdecken"
@@ -112,6 +118,12 @@ defaultContentLanguageInSubdir = true
         name = "Nützliche Links"
         pageRef = "explore/links"
         weight = 6
+
+        [[languages.de.menu.main]]
+        parent = "explore"
+        name = "Dokumente"
+        pageRef = "explore/documents"
+        weight = 7
 
       [[languages.de.menu.main]]
       name = "Impressum"
@@ -175,13 +187,19 @@ headline = "We are an open cycling community from Heidelberg. We focus on rides,
       parent = "community"
       name = "Orga-Team"
       pageRef = "community/orgateam"
-      weight = 6
+      weight = 7
 
       [[languages.en.menu.main]]
       parent = "community"
       name = "Support Us"
       pageRef = "community/sponsoring"
-      weight = 6
+      weight = 8
+
+      [[languages.en.menu.main]]
+      parent = "community"
+      name = "Awareness"
+      pageRef = "community/awareness"
+      weight = 9
 
     [[languages.en.menu.main]]
     name = "Explore"
@@ -225,6 +243,12 @@ headline = "We are an open cycling community from Heidelberg. We focus on rides,
       name = "Useful Links"
       pageRef = "explore/links"
       weight = 6
+
+      [[languages.en.menu.main]]
+      parent = "explore"
+      name = "Documents"
+      pageRef = "explore/documents"
+      weight = 7
 
     [[languages.en.menu.main]]
     name = "Imprint"

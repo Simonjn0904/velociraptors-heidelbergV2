@@ -22,13 +22,13 @@ draft: false
 ⏰ Jeden Samstag, 10:00 Uhr
 <div style="margin-top: 1.0rem;"></div>
 
-Jeden Samstag veranstalten wir eine gemeinsame Ausfahrt – der Fokus liegt dabei ganz klar auf dem Sozialen: Das Tempo ist locker und lädt zu Gesprächen ein 🗣️, die Stimmung ist hervorragend ✨, und am wichtigsten: In der Regel endet die Fahrt mit einem Café-Stopp ☕. Besonders willkommen sind Einsteiger:innen, Fahrer:innen mit Gravelbike 🚵‍♂️ oder alle, die sich in leistungsorientierten Gruppen nicht wohlfühlen. Das Tempo wird so angepasst, dass auch die langsamste Person entspannt mitfahren kann, ohne das Gefühl zu haben, mithalten zu müssen 🐢. Die jeweilige Route wird wöchentlich über die WhatsApp-Announcements-Gruppe 📱 bekannt gegeben.
+Wir organisieren jeden Samstag einen wöchentlichen Social Ride, mit der Betonung auf Social: das Tempo ist entspannt und erlaubt Gespräche, die Vibes sind perfekt, und am wichtigsten: wir enden mit Kaffee und Kuchen. Explizit willkommen sind Menschen, die neu im Radsport sind, ein Gravelbike fahren oder sich in anderen, leistungsorientierten Gruppen nicht so wohl fühlen. Das Tempo wählen wir so, dass auch die langsamste Person die Fahrt genießen kann, ohne das Gefühl zu haben, fast abgehängt zu werden. Die Strecke wird jede Woche in der Whatsapp-Community geteilt. Schreib einfach irgendeinem Admin, wenn du noch Fragen hast!
 <div style="margin-top: 1.0rem;"></div>
 
 **FLINTA ride**
 <div style="margin-top: 1.0rem;"></div>
 
-Wir möchten monatliche FLINTA*-Social Rides organisieren. Die genauen Termine und Routen werden in unserer WhatsApp-Community geteilt.
+Wir möchten monatliche FLINTA*-Social Rides organisieren. Die genauen Termine und Routen werden in unserer WhatsApp-Community und auf Strava geteilt.
 <div style="margin-top: 1.0rem;"></div>
 
 --- 
