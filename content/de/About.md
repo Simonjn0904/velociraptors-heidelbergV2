@@ -12,7 +12,7 @@ menu:
 
 **✨🦕 Willkommen bei den Dinos! 🦖✨**  
 <div style="margin-top: 1.0rem;"></div>
-Wir sind eine Community von jungen Radfahrer:innen, die wöchentliche Ausfahrten, größere Radevents und Treffen abseits des Fahrrads organisiert. Dabei wollen wir hier in Heidelberg einen Raum schaffen, in dem alle unabhängig von Leistungsniveau, Erfahrungslevel und Equipment Spaß auf dem Fahrrad haben können - für uns steht der soziale Aspekt im Vordergrund. Unser Anspruch ist es, eine inklusive Gruppe zu sein, die einen möglichst sicheren Ort frei von Diskriminierung bietet, an dem sich alle wohl und willkommen fühlen können! 
+Wir sind eine Community junger Radfahrer:innen, die wöchentliche Ausfahrten, größere Radevents und Treffen abseits des Fahrrads organisiert. Dabei wollen wir hier in Heidelberg einen Raum schaffen, in dem alle unabhängig von Leistungsniveau, Erfahrungslevel und Equipment Spaß auf dem Fahrrad haben können - für uns steht der soziale Aspekt im Vordergrund. Unser Anspruch ist es, eine inklusive Gruppe zu sein, die einen möglichst sicheren Ort frei von Diskriminierung bietet, an dem sich alle wohl und willkommen fühlen können! 
 <div style="margin-top: 2.0rem;"></div>
 
 **Vielfalt statt Ausgrenzung🌈**     
