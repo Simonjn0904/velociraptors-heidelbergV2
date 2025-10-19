@@ -72,8 +72,8 @@ defaultContentLanguageInSubdir = true
 
         [[languages.de.menu.main]]
         parent = "Mitmachen"
-        name = "Awareness"
-        pageRef = "community/Awareness & Diversity"
+        name = "Awareness & Diversity"
+        pageRef = "community/Awareness"
         weight = 9
 
       [[languages.de.menu.main]]
