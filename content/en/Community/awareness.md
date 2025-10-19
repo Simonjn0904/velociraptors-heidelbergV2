@@ -1,5 +1,5 @@
 ---
-title: "Awareness💜"
+title: "Awareness & Diversity💜"
 menu:
 draft: false
 ---

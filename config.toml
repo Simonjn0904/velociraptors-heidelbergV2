@@ -73,7 +73,7 @@ defaultContentLanguageInSubdir = true
         [[languages.de.menu.main]]
         parent = "Mitmachen"
         name = "Awareness"
-        pageRef = "community/Awareness"
+        pageRef = "community/Awareness & Diversity"
         weight = 9
 
       [[languages.de.menu.main]]
@@ -197,7 +197,7 @@ headline = "We are an open cycling community from Heidelberg. We focus on rides,
 
       [[languages.en.menu.main]]
       parent = "community"
-      name = "Awareness"
+      name = "Awareness & Diversity"
       pageRef = "community/awareness"
       weight = 9
 
