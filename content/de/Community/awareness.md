@@ -32,33 +32,23 @@ Dies schützt alle Beteiligten – Betroffene, Awareness-Personen und auch die C
 
 Wir brauchen Awareness-Strukturen, weil Gleichberechtigung, Inklusion und gegenseitiger Respekt nicht „von selbst“ entstehen. Awareness schafft Vertrauen, stärkt Gemeinschaft und sorgt dafür, dass unser Sport und unsere Szene für alle zugänglich sind – nicht nur für diejenigen, die sich ohnehin schon sicher fühlen. 
 Was genau unser Awareness-Konzept umfasst, wollen wir in der WA-Gruppe safe.space.lab💜 gemeinsam erarbeiten.
-<div style="margin-top: 1.0rem;"></div>
+<div style="margin-top: 2.0rem;"></div>
 
 **Diversity**
-
-Wir möchten gemeinsam mit euch etwas bewegen hin zu mehr Vielfalt, Bewusstsein und Offenheit in unserer Rennrad-Community. Denn Radfahren verbindet, aber wir wissen: echte Gemeinschaft entsteht erst dann, wenn alle gesehen, respektiert und gehört werden. Leider ist Rennradfahren immer noch eine relativ exklusive Sportart, an der nicht alle teilhaben können.
-
 <div style="margin-top: 1.0rem;"></div>
 
-Unser Ziel ist es, einen Safe Space zu schaffen, in dem verschiedenste Perspektiven von FLINTA-Personen, POC, queeren und feministischen Stimmen sowie politisch Interessierten Platz finden, sodass alle einen Platz am Tisch haben und nicht nur diejenigen, die am lautesten sind.
-
-Vielfalt bereichert nicht nur das soziale Miteinander, sondern sorgt auch für kreativen Austausch, neue Ideen und gegenseitiges Lernen. Schließlich kann man nie auslernen.
-
+Wir wollen unsere Rennrad-Community vielfältiger, bewusster und offener gestalten. Radfahren verbindet, doch echte Gemeinschaft entsteht nur, wenn unterschiedliche Perspektiven sichtbar werden und respektiert sind. Deshalb möchten wir FLINTA-Personen, POC, queere Stimmen, feministische Positionen und politisch Interessierte aktiv einbeziehen, damit wirklich alle teilhaben können.
 <div style="margin-top: 1.0rem;"></div>
 
-Deshalb planen wir ein monatliches Diversity-Treffen, bei dem wir unsere Gedanken austauschen und unsere Community aktiv diverser gestalten möchten.
-
-Zudem wollen wir einmal im Monat eine Liste mit Empfehlungen zu Demos, Events, Filmen, Dokus, Büchern, spannenden Veranstaltungen, Initiativen und kulturellen Angeboten veröffentlichen, damit wir uns gegenseitig auf dem Laufenden halten. Diese Sammlung soll Denkanstöße geben und uns inspirieren, aktiv zu werden. Es geht darum, Bewusstsein zu schaffen für Diskriminierung und gesellschaftliche Strukturen sowie Solidarität und gegenseitige Unterstützung zu fördern.
-
+Ab sofort treffen wir uns jeden ersten Freitag im Monat (Ort wird in der WhatsApp-Community bekannt gegeben), um uns auszutauschen, Ideen zu sammeln und neue Impulse in die Community zu tragen. Zusätzlich veröffentlichen wir monatlich Empfehlungen zu Demos, Veranstaltungen, Filmen, Büchern und Initiativen, die zum Nachdenken anregen und zum Mitmachen motivieren. Wir glauben, dass dieses Projekt ein Selbstläufer werden kann, getragen von euch, eurer Neugier und eurem Engagement.
 <div style="margin-top: 1.0rem;"></div>
 
-*Nichts zu tun bedeutet oft Rückschritt.*
-
-<div style="margin-top: 1.0rem;"></div>
-
-Dieses Format soll sich langfristig etablieren und ein fester Bestandteil unserer Community werden. Beim ersten **Diversity Orga-Meeting am 07. Nov** (Ort wird noch in der WhatsApp-Community bekannt gegeben) wollen wir die Details festlegen und die Struktur gemeinsam aufbauen. Wir glauben, dass dieses Projekt ein Selbstläufer werden kann, getragen von euch, eurer Neugier und eurem Engagement.
-
-Denn nur gemeinsam können wir unsere Rad-Community so gestalten, dass sie wirklich für alle da ist. <3
+<iframe 
+  src="https://docs.google.com/spreadsheets/d/1MGhX3hSCAIYIw9TDyBXXytmgllPfoS7Tu4tD4GVOeAM/edit?usp=sharing" 
+  width="100%" 
+  height="600" 
+  frameborder="0">
+</iframe>
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/Diversity-meet.png" alt="QR Code" width="400">

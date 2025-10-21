@@ -32,34 +32,23 @@ This protects everyone involved, including affected persons, awareness contacts 
 
 We need awareness structures because equality, inclusion and mutual respect do not simply happen by themselves. Awareness creates trust, strengthens community and ensures that our sport and our scene are accessible to everyone, not only to those who already feel safe.  
 What our awareness concept will include will be developed together in the WA group *safe.space.lab💜*.  
+<div style="margin-top: 2.0rem;"></div>
+ 
+**Diversity**
 <div style="margin-top: 1.0rem;"></div>
 
-**Diversity**  
+We want to make our road cycling community more diverse, more conscious and more open. Cycling connects people, but real community only emerges when different perspectives become visible and are respected. That is why we want to actively include FLINTA individuals, POC, queer voices, feminist positions and people with political interests, so that everyone can truly participate.
 <div style="margin-top: 1.0rem;"></div>
 
-We want to create positive change together with you toward more diversity, awareness and openness in our road cycling community. Cycling connects people, but real community only begins when everyone is seen, respected and heard. Unfortunately, road cycling is still a relatively exclusive sport that not everyone is able to participate in.  
+From now on, we will meet every first Friday of the month (location will be announced in the WhatsApp community) to exchange ideas, collect input and bring new impulses into the community. Additionally, we will publish monthly recommendations for demonstrations, events, films, books and initiatives that inspire reflection and motivate people to get involved. We believe that this project can become self driven, supported by your curiosity and your engagement.
 <div style="margin-top: 1.0rem;"></div>
 
-Our goal is to create a safe space that embraces diverse perspectives from *FLINTA persons, POC, queer voices, feminist positions and politically engaged individuals*, so that everyone has a seat at the table, not only those who are the loudest.  
-<div style="margin-top: 1.0rem;"></div>
-
-Diversity enriches our social interactions and enables creative exchange, new ideas and mutual learning, because there is always room to grow.  
-<div style="margin-top: 1.0rem;"></div>
-
-This is why we will establish a *monthly diversity meetup* where we can share thoughts and work together to make our community more diverse.  
-<div style="margin-top: 1.0rem;"></div>
-
-Additionally, we want to publish a monthly list of recommendations for *demonstrations, events, films, documentaries, books and cultural offerings* that provide inspiration, raise awareness and keep us informed. The goal is to create awareness of discrimination and social structures, while promoting solidarity and mutual support.  
-<div style="margin-top: 1.0rem;"></div>
-
-Doing nothing often means moving backwards.  
-<div style="margin-top: 1.0rem;"></div>
-
-This format is intended to become a long-term and established part of our community. During the first organisational diversity meeting on **November 7th** (location will be shared in the WhatsApp community) we will define the details and develop the structure. We believe this project can grow naturally, supported by your curiosity and your engagement.  
-<div style="margin-top: 1.0rem;"></div>
-
-Only together can we create a cycling community that is truly for everyone. <3  
-<div style="margin-top: 1.0rem;"></div>
+<iframe 
+  src="https://docs.google.com/spreadsheets/d/1MGhX3hSCAIYIw9TDyBXXytmgllPfoS7Tu4tD4GVOeAM/edit?usp=sharing" 
+  width="100%" 
+  height="600" 
+  frameborder="0">
+</iframe>
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/Diversity-meet.png" alt="QR Code" width="400">
