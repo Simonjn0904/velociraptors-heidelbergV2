@@ -43,6 +43,12 @@ Wir wollen unsere Rennrad-Community vielfältiger, bewusster und offener gestalt
 Ab sofort treffen wir uns jeden ersten Freitag im Monat (Ort wird in der WhatsApp-Community bekannt gegeben), um uns auszutauschen, Ideen zu sammeln und neue Impulse in die Community zu tragen. Zusätzlich veröffentlichen wir monatlich Empfehlungen zu Demos, Veranstaltungen, Filmen, Büchern und Initiativen, die zum Nachdenken anregen und zum Mitmachen motivieren. Wir glauben, dass dieses Projekt ein Selbstläufer werden kann, getragen von euch, eurer Neugier und eurem Engagement.
 <div style="margin-top: 1.0rem;"></div>
 
+👉 {{< bluelink url="https://docs.google.com/spreadsheets/d/1MGhX3hSCAIYIw9TDyBXXytmgllPfoS7Tu4tD4GVOeAM/edit?usp=sharing" text="Tabelle öffnen und bearbeiten" >}}  
+*Klicke auf den Link, um loszulegen!*
+
+
+<div style="margin-top: 1.0rem;"></div>
+
 <iframe 
   src="https://docs.google.com/spreadsheets/d/1MGhX3hSCAIYIw9TDyBXXytmgllPfoS7Tu4tD4GVOeAM/edit?usp=sharing" 
   width="100%" 
