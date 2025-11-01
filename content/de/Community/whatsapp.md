@@ -46,8 +46,8 @@ Gemeinsam zeigen wir, was unsere Community bewegt.
 <div style="margin-top: 1.0rem;"></div>
 
 **🦕 Dino Diversity**  
-Unsere Inklusions- und Diversity-Gruppe – offen für alle, die zu einer respektvollen, vielfältigen und unterstützenden Community beitragen möchten.  
-Egal ob Radneuling oder erfahrene*r Fahrer*in – du bist willkommen!
+Wir treffen uns einmal im Monat, um in offener Atmosphäre über Vielfalt, Feminismus, Antirassismus und gemeinsames Miteinander in unserer Community zu sprechen.💬🌍
+Zusätzlich veröffentlichen wir monatlich eine Empfehlungsliste mit inspirierenden Events, Filmen, Büchern und Initiativen in den Ankündigungen, damit wir uns gegenseitig bereichern und auf dem Laufenden halten📚🎬✨
 <div style="margin-top: 1.0rem;"></div>
 
 **💶 Sponsoring & Finanzen**  
