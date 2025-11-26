@@ -19,19 +19,5 @@ draft: false
   </a>
 </div>
 
-<div style="margin-top: 2rem; text-align: left;">
-  Leitlinie VELOciraptors Heidelberg e.V.:
-  <a href="/documents/Leitlinie_Verein.pdf" target="_blank" rel="noopener">
-    hier klicken
-  </a>
-</div>
-
-<div style="margin-top: 2rem; text-align: left;">
-  Satzung VELOciraptors Heidelberg e.V.:
-  <a href="/documents/Satzung.pdf" target="_blank" rel="noopener">
-    hier klicken
-  </a>
-</div>
-
 
 
