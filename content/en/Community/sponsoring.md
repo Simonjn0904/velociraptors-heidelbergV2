@@ -21,22 +21,6 @@ We appreciate all forms of support – whether financial contributions, in-kind 
 <div style="margin-top: 1.0rem;"></div>
 
 Feel free to contact us: velociraptorshd@gmail.com  
-<div style="margin-top: 1.0rem;"></div>
-
-**As a Member of VELOciraptors Heidelberg e.V.🫶🏼 (currently in the founding phase)**
-<div style="margin-top: 1.0rem;"></div>
-
-The VELOciraptors Heidelberg e.V. supports the work of the organizing group and helps make the community more accessible, stable, and attractive in the long term. The existing structure of the VELOciraptors remains unchanged: everyone can continue to participate in our rides and events without membership or participation fees. Only in rare cases, such as larger events like the Cycling Camp, might membership be required for organizational reasons. The association works mostly in the background and remains largely invisible to most members of the community. Those who wish to support our work beyond one-time donations can become members and thus contribute to the community’s long-term stability. Transparency is important to us, so we openly communicate what the association stands for and how it operates. Detailed information about the association’s activities can be found under Discover → Documents. Membership fees are not an entry ticket to join rides but a way to support the VELOciraptors as an independent, open, and solidarity-based community.  
-<div style="margin-top: 2.0rem;"></div>
-
-**Donation account (current account, not yet e.V.):**
-<div style="margin-top: 1.0rem;"></div>
-
-Account holders: Sebastian Kau and Zachary Smith  
-IBAN: DE85 1203 0000 1204 8238 66  
-BIC: BYLADEM1001  
-Bank: Deutsche Kreditbank AG (DKB)  
-<div style="margin-top: 2.0rem;"></div>
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/050.jpg" alt="QR Code" style="width: 100%;">
