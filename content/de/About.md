@@ -60,7 +60,7 @@ Wir verstehen uns als parteipolitisch unabhängig, aber gesellschaftlich bewusst
 
 {{< image-row >}}
   {{< image src="/images/velociraptors-logo5.png" alt="Logo" width="32%" >}}
-  {{< image src="/images/gruppe.jpg" alt="Gruppe" width="55%" >}}
+  {{< image src="/images/92.jpg" alt="Gruppe" width="50%" >}}
 {{< /image-row >}}
 
 <div style="margin-top: 2.0rem;"></div>
@@ -72,11 +72,17 @@ Wir verstehen uns als parteipolitisch unabhängig, aber gesellschaftlich bewusst
 <div style="margin-top: 2.0rem;"></div>
 
 
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/91.jpg" alt="QR Code" style="width: 100%;">
+</div>
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/016.jpg" alt="QR Code" style="width: 100%;">
 </div>
 
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/90.jpg" alt="QR Code" style="width: 100%;">
+</div>
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/079.jpg" alt="QR Code" style="width: 100%;">

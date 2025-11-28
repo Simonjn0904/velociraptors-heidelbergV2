@@ -26,23 +26,44 @@ We see ourselves as politically independent but socially conscious. For us, cycl
 
 
 
-<div style="display: flex; justify-content: space-between; gap: 0.5rem; align-items: center; width: 150px;">
-  <a href="https://www.instagram.com/velociraptorsheidelberg/" target="_blank" rel="noopener">
-    <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/instagram.png'); background-size: contain; background-repeat: no-repeat;"></span>
-  </a>
-  <a href="https://www.strava.com/clubs/1194781" target="_blank" rel="noopener">
-    <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/strava.png'); background-size: contain; background-repeat: no-repeat;"></span>
-  </a>
-  <a href="https://chat.whatsapp.com/EzMhtXipCytEIUyzVBjZGx" target="_blank" rel="noopener">
-    <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/whatsapp.png'); background-size: contain; background-repeat: no-repeat;"></span>
-  </a>
+<div style="display: flex; justify-content: space-between; gap: 0.5rem; align-items: center; width: 260px;">
+
+  <div style="text-align: center;">
+    <a href="https://www.instagram.com/velociraptorsheidelberg/" target="_blank" rel="noopener">
+      <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/instagram.png'); background-size: contain; background-repeat: no-repeat;"></span>
+    </a>
+    <div style="font-size: 0.75rem; margin-top: 0.25rem;">Instagram</div>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://www.strava.com/clubs/1194781" target="_blank" rel="noopener">
+      <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/strava.png'); background-size: contain; background-repeat: no-repeat;"></span>
+    </a>
+    <div style="font-size: 0.75rem; margin-top: 0.25rem;">Strava</div>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://chat.whatsapp.com/EzMhtXipCytEIUyzVBjZGx" target="_blank" rel="noopener">
+      <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/whatsapp.png'); background-size: contain; background-repeat: no-repeat;"></span>
+    </a>
+    <div style="font-size: 0.75rem; margin-top: 0.25rem;">WhatsApp</div>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://signal.group/#CjQKICRp2hVx3RyLtZ2dsbqN6g0xWQCkOulYtm19xiu2gO6zEhCRQWl0471LNtdEz63WPqZ9" target="_blank" rel="noopener">
+      <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/signal.png'); background-size: contain; background-repeat: no-repeat;"></span>
+    </a>
+    <div style="font-size: 0.75rem; margin-top: 0.25rem;">Signal</div>
+  </div>
+
 </div>
+
 
 <div style="margin-top: 2.0rem;"></div>
 
 {{< image-row >}}
   {{< image src="/images/velociraptors-logo5.png" alt="Logo" width="32%" >}}
-  {{< image src="/images/gruppe.jpg" alt="Group" width="55%" >}}
+  {{< image src="/images/92.jpg" alt="Group" width="50%" >}}
 {{< /image-row >}}
 
 <div style="margin-top: 2.0rem;"></div>
@@ -51,11 +72,17 @@ We see ourselves as politically independent but socially conscious. For us, cycl
 <div style="margin-top: 2.0rem;"></div>
 {{< youtube u11EQXmMvj0 >}}
 
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/91.jpg" alt="QR Code" style="width: 100%;">
+</div>
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/016.jpg" alt="QR Code" style="width: 100%;">
 </div>
 
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/90.jpg" alt="QR Code" style="width: 100%;">
+</div>
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/079.jpg" alt="QR Code" style="width: 100%;">
