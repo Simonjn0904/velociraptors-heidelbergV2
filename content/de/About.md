@@ -23,17 +23,38 @@ Wir verstehen uns als parteipolitisch unabhängig, aber gesellschaftlich bewusst
 **📸Folgt uns hier:**  
 <div style="margin-top: 2.0rem;"></div>
 
-<div style="display: flex; justify-content: space-between; gap: 0.5rem; align-items: center; width: 150px;">
-  <a href="https://www.instagram.com/velociraptorsheidelberg/" target="_blank" rel="noopener">
-    <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/instagram.png'); background-size: contain; background-repeat: no-repeat;"></span>
-  </a>
-  <a href="https://www.strava.com/clubs/1194781" target="_blank" rel="noopener">
-    <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/strava.png'); background-size: contain; background-repeat: no-repeat;"></span>
-  </a>
-  <a href="https://chat.whatsapp.com/EzMhtXipCytEIUyzVBjZGx" target="_blank" rel="noopener">
-    <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/whatsapp.png'); background-size: contain; background-repeat: no-repeat;"></span>
-  </a>
+<div style="display: flex; justify-content: space-between; gap: 0.5rem; align-items: center; width: 260px;">
+
+  <div style="text-align: center;">
+    <a href="https://www.instagram.com/velociraptorsheidelberg/" target="_blank" rel="noopener">
+      <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/instagram.png'); background-size: contain; background-repeat: no-repeat;"></span>
+    </a>
+    <div style="font-size: 0.75rem; margin-top: 0.25rem;">Instagram</div>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://www.strava.com/clubs/1194781" target="_blank" rel="noopener">
+      <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/strava.png'); background-size: contain; background-repeat: no-repeat;"></span>
+    </a>
+    <div style="font-size: 0.75rem; margin-top: 0.25rem;">Strava</div>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://chat.whatsapp.com/EzMhtXipCytEIUyzVBjZGx" target="_blank" rel="noopener">
+      <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/whatsapp.png'); background-size: contain; background-repeat: no-repeat;"></span>
+    </a>
+    <div style="font-size: 0.75rem; margin-top: 0.25rem;">WhatsApp</div>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://signal.group/#CjQKICRp2hVx3RyLtZ2dsbqN6g0xWQCkOulYtm19xiu2gO6zEhCRQWl0471LNtdEz63WPqZ9" target="_blank" rel="noopener">
+      <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/signal.png'); background-size: contain; background-repeat: no-repeat;"></span>
+    </a>
+    <div style="font-size: 0.75rem; margin-top: 0.25rem;">Signal</div>
+  </div>
+
 </div>
+
 
 <div style="margin-top: 2.0rem;"></div>
 
