@@ -33,7 +33,12 @@ Tritt dieser Gruppe bei, wenn du Events mitgestalten und deine Ideen einbringen 
 **💛💜FLINTA*only Gruppe**
 
 Für einen geschützten Raum, um sich weiterhin casual für Rides zu verabreden, sich auszutauschen, Fragen zu stellen und auch Anmerkungen und Kritik zu äußern, alles wofür es im 'General' Hürden gibt oder geben kann.  🦖
-Alle Personen, die sich angesprochen fühlen und Interesse haben, können der Gruppe gerne beitreten. Uns ist wichtig, dass sich alle Menschen hier sicher und wohl fühlen, sei es beim Treffen mit neuen Menschen, beim ersten Mal in der Gruppe fahren... 🦕✨
+Alle Personen, die sich angesprochen fühlen und Interesse haben, können der Gruppe gerne beitreten. Uns ist wichtig, dass sich alle Menschen hier sicher und wohl fühlen, sei es beim Treffen mit neuen Menschen, beim ersten Mal in der Gruppe fahren... 🦕✨ Für diese Gruppe gibt es auch eine seperate Orga-Gruppe!
+<div style="margin-top: 1.0rem;"></div>
+
+**🌈Queer Gruppe**
+
+Ein Ort für alle Menschen aus der queeren Community, die sich einen sicheren und wertschätzenden Raum wünschen. Für diese Gruppe gibt es auch eine seperate Orga-Grüppe.
 <div style="margin-top: 1.0rem;"></div>
 
 **🔄 Bike- & Zubehör-Börse**  
