@@ -17,16 +17,26 @@ velociraptorshd@gmail.com
 **Simon Janus**  
 E-Mail: [simon.janus02@gmail.com](mailto:simon.janus02@gmail.com)  
 Adresse: Im Fuchsloch 18, 69221 Dossenheim, Deutschland  
+<div style="margin-top: 1.0rem;"></div>
+
+Diese Seite ist ein persönliches Projekt. Entwickelt wird sie lokal mit Hugo, Blowfish Theme und Visual Studio Code. Das Repository liegt öffentlich auf GitHub: *[hier klicken](github.com/Simonjn0904/velociraptors-heidelbergV2)*. Bei inhaltlichen Ergänzungen oder Vorschlägen zu Artikeln freue ich mich über eine Nachricht per E Mail, damit ich die Änderungen prüfen und einpflegen kann. Für allgemeine Anfragen steht unsere Communtity-Adresse zur Verfügung.
+
+<div style="margin-top: 1.0rem;"></div>
+
+**Fotos**
+
+Yannic Müller © und Commuity Google-Drive Order
+<div style="margin-top: 1.0rem;"></div>
+
+**Rechtlicher Hinweis**  
+Die Inhalte dieser Website dienen ausschließlich allgemeinen Informationszwecken. Sämtliche Texte, Grafiken, Bilder und sonstigen Daten unterliegen dem Urheberrecht und sind – sofern nicht anders gekennzeichnet – Eigentum von Simon Janus und weiteren Mitwirkenden der VELOciraptors Heidelberg-Gruppe. Eine Vervielfältigung, Verbreitung, Speicherung, Übermittlung, Sendung oder anderweitige Nutzung der Inhalte – ob in elektronischer oder gedruckter Form – ist ohne vorherige schriftliche Genehmigung nicht gestattet. Trotz sorgfältiger Prüfung übernehme ich keine Gewähr für die Aktualität, Richtigkeit oder Vollständigkeit der bereitgestellten Informationen. Die Nutzung der Inhalte erfolgt auf eigene Verantwortung. Für Inhalte externer Links übernehme ich keine Haftung. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber:innen verantwortlich.  
 <div style="margin-top: 2.0rem;"></div>
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/simon_janus.jpg" alt="Simon Janus" width="400">
 </div>
 
-<div style="margin-top: 2.0rem;"></div>
+<div style="margin-top: 1.0rem;"></div>
 
-**Rechtlicher Hinweis**  
-Die Inhalte dieser Website dienen ausschließlich allgemeinen Informationszwecken. Sämtliche Texte, Grafiken, Bilder und sonstigen Daten unterliegen dem Urheberrecht und sind – sofern nicht anders gekennzeichnet – Eigentum von Simon Janus und weiteren Mitwirkenden der VELOciraptors Heidelberg-Gruppe. Eine Vervielfältigung, Verbreitung, Speicherung, Übermittlung, Sendung oder anderweitige Nutzung der Inhalte – ob in elektronischer oder gedruckter Form – ist ohne vorherige schriftliche Genehmigung nicht gestattet. Trotz sorgfältiger Prüfung übernehme ich keine Gewähr für die Aktualität, Richtigkeit oder Vollständigkeit der bereitgestellten Informationen. Die Nutzung der Inhalte erfolgt auf eigene Verantwortung. Für Inhalte externer Links übernehme ich keine Haftung. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber:innen verantwortlich.  
-<div style="margin-top: 2.0rem;"></div>
 
 © 2025 Simon Janus, Dossenheim
