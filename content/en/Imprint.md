@@ -36,6 +36,8 @@ The content of this website is provided for general informational purposes only.
   <img src="/images/simon_janus.jpg" alt="Simon Janus" width="400">
 </div>
 
+this is me doing a show sprint for a good photo :D
+
 <div style="margin-top: 1.0rem;"></div>
 
 © 2025 Simon Janus, Dossenheim

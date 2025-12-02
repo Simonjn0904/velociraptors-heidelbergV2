@@ -36,6 +36,8 @@ Die Inhalte dieser Website dienen ausschließlich allgemeinen Informationszwecke
   <img src="/images/simon_janus.jpg" alt="Simon Janus" width="400">
 </div>
 
+das bin ich bei einem Show Sprint für ein gutes Foto :D
+
 <div style="margin-top: 1.0rem;"></div>
 
 
