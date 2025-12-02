@@ -19,7 +19,7 @@ E-Mail: [simon.janus02@gmail.com](mailto:simon.janus02@gmail.com)
 Adresse: Im Fuchsloch 18, 69221 Dossenheim, Deutschland  
 <div style="margin-top: 1.0rem;"></div>
 
-Diese Seite ist ein persönliches Projekt. Entwickelt wird sie lokal mit Hugo, Blowfish Theme und Visual Studio Code. Das Repository liegt öffentlich auf GitHub: *[hier klicken](github.com/Simonjn0904/velociraptors-heidelbergV2)*. Bei inhaltlichen Ergänzungen oder Vorschlägen zu Artikeln freue ich mich über eine Nachricht per E Mail, damit ich die Änderungen prüfen und einpflegen kann. Für allgemeine Anfragen steht unsere Communtity-Adresse zur Verfügung.
+Diese Seite ist ein persönliches Projekt. Entwickelt wird sie lokal mit Hugo, Blowfish Theme und Visual Studio Code. Das Repository liegt öffentlich auf GitHub: *[hier klicken](https://github.com/Simonjn0904/velociraptors-heidelbergV2)*. Bei inhaltlichen Ergänzungen oder Vorschlägen zu Artikeln freue ich mich über eine Nachricht per E Mail, damit ich die Änderungen prüfen und einpflegen kann. Für allgemeine Anfragen steht unsere Communtity-Adresse zur Verfügung.
 
 <div style="margin-top: 1.0rem;"></div>
 
