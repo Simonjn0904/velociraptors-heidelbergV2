@@ -552,6 +552,19 @@ L.marker([49.718861, 8.770222], { icon: dinoIcon })
     offset: [10, 0]
   });
 
+// Marker 40 – Selma_01
+L.marker([58.37872, 26.72483], { icon: dinoIcon })
+  .addTo(map)
+  .bindTooltip(
+    '<div class="custom-tooltip">Sticker, Selma, 15.12.2025, <a href="/images/Selma_01.jpeg" target="_blank">Picture</a></div>',
+    {
+      permanent: true,
+      direction: 'right',
+      offset: [10, 0],
+      interactive: true
+    }
+  );
+
 
 </script>
 
