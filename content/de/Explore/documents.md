@@ -13,8 +13,15 @@ draft: false
 </div>
 
 <div style="margin-top: 2rem; text-align: left;">
-  Leitlinie VELOciraptors Heidelberg Community:
-  <a href="/documents/Leitlinie_Community.pdf" target="_blank" rel="noopener">
+  Leitlinie VELOciraptors Heidelberg Community (Stand 04.11.2025):
+  <a href="/documents/Community Leitlinie (Stand 04.11.25).pdf" target="_blank" rel="noopener">
+    hier klicken
+  </a>
+</div>
+
+<div style="margin-top: 2rem; text-align: left;">
+  Census Analyse 2025 (Stand 10.12.2025):
+  <a href="/documents/VELOciraptors Census 2025 Analysis (Stand 10.12.2025).pdf" target="_blank" rel="noopener">
     hier klicken
   </a>
 </div>
