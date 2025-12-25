@@ -1,11 +1,68 @@
 /* === Hintergrundfarbe für Body (Demo) === */
 body {
-  background-color: red !important; /* ggf. ändern */
+  background-color: red !important;
 }
 
-/* === Textjustierung für besseren Blocksatz === */
-.content p {
+/* === Desktop: Blocksatz === */
+html body main .prose p,
+html body .content .prose p,
+html body article .prose p,
+html body .prose p {
   text-align: justify !important;
+  hyphens: auto !important;
+}
+
+/* === Überschriften enger setzen === */
+html body main .prose h1,
+html body main .prose h2,
+html body main .prose h3,
+html body main .prose h4,
+html body main .prose h5,
+html body main .prose h6,
+html body .prose h1,
+html body .prose h2,
+html body .prose h3,
+html body .prose h4,
+html body .prose h5,
+html body .prose h6 {
+  margin-top: 1.6rem !important;
+  margin-bottom: 0.3rem !important;
+  line-height: 1.25 !important;
+}
+
+/* === Erster Absatz nach Überschrift ohne Extra-Abstand === */
+html body main .prose h1 + p,
+html body main .prose h2 + p,
+html body main .prose h3 + p,
+html body main .prose h4 + p,
+html body main .prose h5 + p,
+html body main .prose h6 + p,
+html body .prose h1 + p,
+html body .prose h2 + p,
+html body .prose h3 + p,
+html body .prose h4 + p,
+html body .prose h5 + p,
+html body .prose h6 + p {
+  margin-top: 0 !important;
+}
+
+/* === Überschriften: Umbruch & Trennung erzwingen === */
+html body main .prose h1,
+html body main .prose h2,
+html body main .prose h3,
+html body main .prose h4,
+html body main .prose h5,
+html body main .prose h6,
+html body .prose h1,
+html body .prose h2,
+html body .prose h3,
+html body .prose h4,
+html body .prose h5,
+html body .prose h6 {
+  white-space: normal !important;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  hyphens: auto;
 }
 
 /* === Fixiertes Hauptmenü oben === */
@@ -19,8 +76,9 @@ body {
   overflow-x: auto;
 }
 
-/* === Allgemeine Sidebar-Anpassungen (alle Geräte) === */
-.sidebar, .sidebar-container {
+/* === Allgemeine Sidebar-Anpassungen === */
+.sidebar,
+.sidebar-container {
   box-sizing: border-box;
   overflow-x: hidden;
 }
@@ -31,11 +89,11 @@ body {
   height: auto;
 }
 
-/* === Verbesserung für Mobilgeräte (bis 480px) === */
+/* === Mobil: linksbündig statt Blocksatz === */
 @media screen and (max-width: 480px) {
 
-  /* Seitenleiste & Container */
-  .sidebar, .sidebar-container {
+  .sidebar,
+  .sidebar-container {
     width: 100vw !important;
     max-width: 100vw !important;
     overflow-x: hidden !important;
@@ -43,40 +101,58 @@ body {
     padding-right: 1rem;
   }
 
-  /* Menülesbarkeit */
   .main-menu {
     white-space: normal !important;
     font-size: 1rem;
     padding: 0.5rem;
   }
 
-  /* Logo kleiner */
   .logo img {
     max-width: 140px;
   }
 
-  /* Menü-Links besser erreichbar */
   .main-menu a {
     padding: 0.5rem;
     display: inline-block;
     font-weight: 500;
   }
 
-  /* Optional: Textgröße für Absätze verringern */
-  .content p {
+  html body main .prose,
+  html body .content .prose,
+  html body article .prose,
+  html body .prose {
+    text-align: left !important;
+  }
+
+  html body main .prose p,
+  html body .content .prose p,
+  html body article .prose p,
+  html body .prose p {
+    text-align: left !important;
+    hyphens: none !important;
     font-size: 0.95rem;
     line-height: 1.6;
   }
+
+  html body main .prose h1,
+  html body main .prose h2,
+  html body main .prose h3,
+  html body .prose h1,
+  html body .prose h2,
+  html body .prose h3 {
+    margin-top: 1.3rem !important;
+    margin-bottom: 0.25rem !important;
+  }
 }
 
-/* === Optional: Bessere visuelle Trennung im Menü === */
+/* === Menü Hover === */
 .main-menu a:hover {
   background-color: #f5f5f5;
   color: #333;
   border-radius: 0.25rem;
 }
 
-/* === Optional: Weicher Übergang bei Menüpunkten === */
+/* === Weicher Übergang === */
 .main-menu a {
   transition: background-color 0.2s ease-in-out;
 }
