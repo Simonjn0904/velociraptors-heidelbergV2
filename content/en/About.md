@@ -21,6 +21,10 @@ We are a community of young cyclists who organize weekly rides, regular get-toge
 We see ourselves as politically independent but socially conscious. For us, cycling means community, based on openness, respect, and solidarity. It connects people, creates encounters, and strengthens regardless of origin, gender, or experience. We are firmly opposed to discrimination—against racism, sexism, queerphobia, fascism, classism, and ableism—and we continuously strive to live out anti-racism, equality, and intersectional feminism. We are aware that discrimination is not only embedded in individual behavior, but also in social structures. At the same time, we know that discriminatory behavior can also occur within our own group because we are part of this society. For us, awareness means taking responsibility, being attentive, and learning from experience. We see ourselves as a community in a continuous process of education, criticism, and self-reflection in order to create an environment that promotes mindfulness and empowers those affected. That is why commitment beyond sport is part of who we are. Democracy and diversity are a matter of course for us – on and off the bike. In this respect, we consider our community to be political. We consciously share information and support demonstrations, cultural and educational events, and campaigns that reinforce our values.
 <div style="margin-top: 2.0rem;"></div>
 
+Click **[*here*](/en/blog/)** to see our latest blog posts!
+
+<div style="margin-top: 2.0rem;"></div>
+
 **📸Follow us here:**  
 <div style="margin-top: 2.0rem;"></div>
 
