@@ -19,10 +19,6 @@ Email: [simon.janus02@gmail.com](mailto:simon.janus02@gmail.com)
 Address: Im Fuchsloch 18, 69221 Dossenheim, Germany  
 <div style="margin-top: 1.0rem;"></div>
 
-This site is a personal project. It is developed locally with Hugo, Blowfish Theme and Visual Studio Code. The repository is publicly available on GitHub: *[click here](https://github.com/Simonjn0904/velociraptors-heidelbergV2)*. If you have any additions or suggestions for articles, please send me an email so that I can review and incorporate the changes. For general enquiries, please use our community address.
-
-<div style="margin-top: 1.0rem;"></div>
-
 **Photos**
 
 Yannic Müller © and Community Google Drive folder
