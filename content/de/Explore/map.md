@@ -9,7 +9,7 @@ draft: false
 **Sticker-Weltkarte**
 <div style="margin-top: 1.5rem;"></div>
 
-Dinosaurier gelten leider als ausgestorben. Der Velociraptor lebte vor rund 75 Millionen Jahren. Ein Asteroideneinschlag vor 66 Millionen Jahren ließ die meisten Dinosaurier aussterben. Aber wir holen ihn zurück. Nicht genetisch, sondern stilvoll. Du hast irgendwo auf der Welt einen Velociraptor Sticker platziert? Dann hilf uns, den Planeten wieder zu bevölkern. Trag den Ort ins Formular ein und wir setzen deinen Raptor auf die interaktive Weltkarte. Evolution 2.0, diesmal mit Aufkleber.
+Dinosaurier gelten leider als ausgestorben, aber wir holen sie zurück! Nicht genetisch, sondern stilvoll. Du hast irgendwo auf der Welt einen Velociraptor Sticker platziert? Dann hilf uns, den Planeten wieder zu bevölkern. Trag den Ort ins Formular ein und wir setzen deinen Raptor auf die interaktive Weltkarte. Evolution 2.0, diesmal mit Aufkleber.
 <div style="margin-top: 1.5rem;"></div>
 
 Die Sticker gibt's bei den Admins unserer Whatsapp-Community! Einfach rawrr in die DMs. 
