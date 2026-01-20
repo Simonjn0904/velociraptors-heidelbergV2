@@ -5,12 +5,6 @@ draft: false
 ---
 <div style="margin-top: 2.0rem;"></div>
 
-<div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/antifacistdino.png" alt="QR Code" width="400">
-</div>
-
-<div style="margin-top: 1.0rem;"></div>
-
 **[*Hier*]( https://whatsapp.com/channel/0029VbCazOn05MUZVIsbdS2C)** geht es zu unserem WhatsApp-Channel, in dem wir immer mal wieder stabile politische Events in Heidelberg posten, wenn wir über etwas stolpern. Abonniert ihn doch gerne :)
 
 <div style="margin-top: 2.0rem;"></div>
