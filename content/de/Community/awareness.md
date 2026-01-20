@@ -3,7 +3,17 @@ title: "Awareness & Diversity💜"
 menu:
 draft: false
 ---
+<div style="margin-top: 2.0rem;"></div>
+
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/antifacistdino.png" alt="QR Code" width="400">
+</div>
+
 <div style="margin-top: 1.0rem;"></div>
+
+**[*Hier*]( https://whatsapp.com/channel/0029VbCazOn05MUZVIsbdS2C)** geht es zu unserem WhatsApp-Channel, in dem wir immer mal wieder stabile politische Events in Heidelberg posten, wenn wir über etwas stolpern. Abonniert ihn doch gerne :)
+
+<div style="margin-top: 2.0rem;"></div>
 
 **Awareness**
 <div style="margin-top: 1.0rem;"></div>
@@ -55,7 +65,3 @@ Ab sofort treffen wir uns jeden ersten Freitag im Monat (Ort wird in der WhatsAp
   height="600" 
   frameborder="0">
 </iframe>
-
-<div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/Diversity-meet.png" alt="QR Code" width="400">
-</div>
