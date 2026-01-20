@@ -59,7 +59,7 @@ We ride the weekly gravel ride on Thursdays with Ruprecht Rides. Meeting point i
 - 🐢 Pace: "Social Ride Pace" – speak up if it feels too fast  
 - 🧗‍♀️ Climbs: Everyone at their own pace, we wait at the top (faster riders are encouraged to roll back and support others)  
 - ⛰️ Descents: Always ride slowly & carefully  
-- 🫂 0% discrimination policy: Speak up if you feel uncomfortable – the group will support you  
+- 🫂 Speak up if you feel uncomfortable – the group will support you  
 
 <div style="margin-top: 1.0rem;"></div>
 

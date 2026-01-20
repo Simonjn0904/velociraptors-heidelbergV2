@@ -59,7 +59,7 @@ Wir fahren donnerstags den wöchentlichen Gravel Ride mit Ruprecht Rides 😊 Tr
 - 🐢 Tempo: "Social Ride Pace" – sag Bescheid, wenn es zu schnell wird  
 - 🧗‍♀️ Anstiege: Jede:r in seinem/ihrem Tempo, wir warten oben (Schnelle Fahrer:innen können zurückrollen und andere begleiten)  
 - ⛰️ Abfahrten: Immer langsam & vorsichtig fahren  
-- 🫂 0%-Diskriminierung: Sprich an, wenn du dich unwohl fühlst – die Gruppe unterstützt dich  
+- 🫂 Sprich an, wenn du dich unwohl fühlst – die Gruppe unterstützt dich  
 
 
 <div style="margin-top: 1.0rem;"></div>
