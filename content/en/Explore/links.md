@@ -6,7 +6,22 @@ draft: false
 
 <div style="margin-top: 2.0rem;"></div>
 
-**Politics and Cycling Initiatives**
+**Bike Shops:**
+
+<div style="margin-top: 2.0rem;"></div>
+
+**Ruprecht Rides ([Link](https://ruprechtrides.de/))**
+
+We have a cooperation with Ruprecht Rides. All dinos who ride with us receive a 5 percent discount there. Ruprecht Rides is a modern bike shop in Heidelberg with a focus on performance, service, and community.
+
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/logo_ruprecht.jpeg" alt="QR Code" width="200">
+</div>
+
+<div style="margin-top: 3.0rem;"></div>
+
+
+**Politics and Cycling Initiatives:**
 <div style="margin-top: 2.0rem;"></div>
 
 **Junger ADFC Rhein-Neckar ([Link](https://rhein-neckar.adfc.de))**
@@ -202,20 +217,6 @@ Website: https://sfp-heidelberg.de
 
 <div style="margin-top: 2rem; text-align: left;">
   <img src="/images/studentsforpalestine_hd.png" alt="QR Code" width="200">
-</div>
-
-<div style="margin-top: 3.0rem;"></div>
-
-**Bike Shops**
-
-<div style="margin-top: 2.0rem;"></div>
-
-**Ruprecht Rides ([Link](https://ruprechtrides.de/))**
-
-We have a cooperation with Ruprecht Rides. All dinos who ride with us receive a 5 percent discount there. Ruprecht Rides is a modern bike shop in Heidelberg with a focus on performance, service, and community.
-
-<div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/logo_ruprecht.jpeg" alt="QR Code" width="200">
 </div>
 
 <div style="margin-top: 3.0rem;"></div>

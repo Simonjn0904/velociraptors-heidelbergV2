@@ -5,7 +5,20 @@ draft: false
 ---
 <div style="margin-top: 2.0rem;"></div>
 
-**Politik und Fahrradinitiativen**
+**Radläden:**
+
+<div style="margin-top: 2.0rem;"></div>
+
+**Ruprecht Rides ([Link](https://ruprechtrides.de/))**
+
+Wir haben eine Kooperation mit Ruprecht Rides. Alle Dinos, die bei uns mitfahren, erhalten dort 5 % Rabatt. Ruprecht Rides ist ein moderner Fahrradladen in Heidelberg mit Fokus auf Performance, Service und Community.
+<div style="margin-top: 2rem; text-align: left;">
+  <img src="/images/logo_ruprecht.jpeg" alt="QR Code" width="200">
+</div>
+
+<div style="margin-top: 3.0rem;"></div>
+
+**Politik und Fahrradinitiativen:**
 <div style="margin-top: 2.0rem;"></div>
 
 **Junger ADFC Rhein-Neckar ([Link](https://rhein-neckar.adfc.de))**
@@ -204,18 +217,7 @@ Website: https://sfp-heidelberg.de
 
 <div style="margin-top: 3.0rem;"></div>
 
-**Radläden**
 
-<div style="margin-top: 2.0rem;"></div>
-
-**Ruprecht Rides ([Link](https://ruprechtrides.de/))**
-
-Wir haben eine Kooperation mit Ruprecht Rides. Alle Dinos, die bei uns mitfahren, erhalten dort 5 % Rabatt. Ruprecht Rides ist ein moderner Fahrradladen in Heidelberg mit Fokus auf Performance, Service und Community.
-<div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/logo_ruprecht.jpeg" alt="QR Code" width="200">
-</div>
-
-<div style="margin-top: 3.0rem;"></div>
 
 
 
