@@ -29,7 +29,7 @@ The content of this website is provided for general informational purposes only.
 <div style="margin-top: 2.0rem;"></div>
 
 <div style="margin-top: 2rem; text-align: left;">
-  <img src="/images/simon_janus.jpg" alt="Simon Janus" width="400">
+  <img src="/images/simon.jpg" alt="Simon Janus" width="400">
 </div>
 
 <div style="margin-top: 1.0rem;"></div>
