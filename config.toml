@@ -54,7 +54,7 @@ defaultContentLanguageInSubdir = true
 
         [[languages.de.menu.main]]
         parent = "Mitmachen"
-        name = "Kalender"
+        name = "Eventkalender"
         pageRef = "community/calendar"
         weight = 6
 
@@ -179,7 +179,7 @@ headline = "We are an open cycling community from Heidelberg. We focus on rides,
 
       [[languages.en.menu.main]]
       parent = "community"
-      name = "Calendar"
+      name = "Event calendar"
       pageRef = "community/calendar"
       weight = 6
 
