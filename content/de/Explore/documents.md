@@ -8,7 +8,7 @@ draft: false
 **Allgemein:**
 
 <div style="margin-top: 2rem; text-align: left;">
-  Leitlinie VELOciraptors Heidelberg Community (Stand 31.11.2025):
+  Leitlinie VELOciraptors Heidelberg Community (verabschiedet 28.02.2026):
   <a href="/documents/Community Leitlinie (Stand 04.11.25).pdf" target="_blank" rel="noopener">
     PDF
   </a>

@@ -8,7 +8,7 @@ draft: false
 **General:**
 
 <div style="margin-top: 2rem; text-align: left;">
-  VELOciraptors Heidelberg Community Guideline (status 31.11.2025):
+  VELOciraptors Heidelberg Community Guideline (28.02.2026):
   <a href="/documents/Community Leitlinie (Stand 04.11.25).pdf" target="_blank" rel="noopener">
     PDF
   </a>
