@@ -20,7 +20,8 @@ date: 2025-05-09
 - 20.06. - 21.06.: 500k-Ride
 - 26.06.: Fahrradkino 
 - 17. + 18.07.: Tour de France Velociraptors Fanbase Le Markstein
-- 24:07.: Fahrradkino - 01.08.: Weltpommestag (Pommesride)
+- 24:07.: Fahrradkino 
+- 01.08.: Weltpommestag (Pommes social ride)
 - August: Königsstuhl x10
 - September: Cycling camp (8 Tage)
 - 25.10.: Weltnudeltag: Küfa?
