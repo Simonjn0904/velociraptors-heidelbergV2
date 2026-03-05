@@ -24,7 +24,7 @@ date: 2025-05-09
 - 24:07.: Fahrradkino 
 - 01.08.: Weltpommestag (Pommes social ride)
 - O2.08.: My first 200k
-- August: Königsstuhl x10
+- August: Königstuhl x10
 - September: Cycling camp (8 Tage)
 - 25.10.: Weltnudeltag Küfa
 - Ende Dezember: Last ones smiling
