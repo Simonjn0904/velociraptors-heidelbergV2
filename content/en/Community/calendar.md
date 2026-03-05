@@ -4,28 +4,39 @@ date: 2025-05-09
 ---
 <div style="margin-top: 1.0rem;"></div>
 
+**Dates 2026 (detailed information can be found in our WhatsApp community):** 
 
-**Dates (detailed information can be found in our WhatsApp community)**
+- March 8: Queer Feminist Struggle Day
+- March 13: Off-bike social at Zep
+- April 5: My first 100 km
+- April 18: Cycling Dinner
+- May 1: Offenbach an der Queich licensed race
+- May 10: RSV RTF (recreational cycling tour)
+- May 17: Loops & Cakes
+- May 29: Bicycle Cinema
+- May 31: My first 150 km
+- June 3: World Bicycle Day: Strava Art
+- June 5: World Environment Day
+- June 14: World Cup opening match Germany, boycott social ride
+- June 20 to June 21: 500 km ride
+- June 26: Bicycle Cinema
+- July 17 and 18: Tour de France Velociraptors fanbase, Le Markstein
+- July 24: Bicycle Cinema
+- August 1: World Fries Day (Fries social ride)
+- August 2: My first 200 km
+- August: Königstuhl x10
+- September: Cycling camp (8 days)
+- October 25: World Pasta Day Küfa
+- End of December: Last ones smiling
+
 <div style="margin-top: 1.0rem;"></div>
 
-- 08.03. Queerfeministischer Kampftag 
-- 13.03. Off-bike social im Zep
-- 18.04.: Cycling Dinner
-- 01.05.: Offenbach an der Queich Lizenzrennen
-- 10.05.: RSV RTF
-- 29.05.: Fahrradkino 
-- 03.06 Weltfahrradtag: Strava-Art
-- 05.06.: Weltumwelttag
-- 14.06.: WM Auftaktspiel Deutschland, Boykott Social Ride 
-- 20.06. - 21.06.: 500k-Ride
-- 26.06.: Fahrradkino 
-- 17. + 18.07.: Tour de France Velociraptors Fanbase Le Markstein
-- 24:07.: Fahrradkino 
-- 01.08.: Weltpommestag (Pommes social ride)
-- August: Königsstuhl x10
-- September: Cycling camp (8 Tage)
-- 25.10.: Weltnudeltag: Küfa?
-- Ende Dezember: Last ones smiling
+**Additional events:**
+- Bike Repair Day
+- Bergbein Challenge
+- Saarlandschwein
+
+<div style="margin-top: 1.0rem;"></div>
 
 <iframe 
   src="https://calendar.google.com/calendar/embed?src=velociraptorshd%40gmail.com&ctz=Europe%2FBerlin&hl=de" 
