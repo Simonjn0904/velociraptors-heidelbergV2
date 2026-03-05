@@ -20,7 +20,7 @@ date: 2025-05-09
 - 14.06.: WM Auftaktspiel Deutschland, Boykott Social Ride 
 - 20.06. - 21.06.: 500k-Ride
 - 26.06.: Fahrradkino 
-- 17. + 18.07.: Tour de France Velociraptors Fanbase Le Markstein
+- 17.+ 18.07.: Tour de France Velociraptors Fanbase Le Markstein
 - 24:07.: Fahrradkino 
 - 01.08.: Weltpommestag (Pommes social ride)
 - O2.08.: My first 200k
