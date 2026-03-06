@@ -16,6 +16,7 @@ date: 2025-05-09
 - May 29: Bicycle Cinema
 - May 31: My first 150 km
 - June 3: World Bicycle Day: Strava Art
+- June 4 to June 07: Bikepacking Tour
 - June 5: World Environment Day
 - June 14: World Cup opening match Germany, boycott social ride
 - June 20 to June 21: 500 km ride
