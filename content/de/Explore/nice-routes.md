@@ -1,5 +1,5 @@
 ---
-title: "Strecken"
+title: "Nette Routen"
 menu:
 draft: false
 ---

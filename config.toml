@@ -103,7 +103,7 @@ defaultContentLanguageInSubdir = true
 
         [[languages.de.menu.main]]
         parent = "explore"
-        name = "Schöne Strecken"
+        name = "Nette Routen"
         pageRef = "explore/nice-routes"
         weight = 4
 
