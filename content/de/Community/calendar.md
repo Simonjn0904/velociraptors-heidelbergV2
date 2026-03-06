@@ -13,7 +13,7 @@ date: 2025-05-09
 - 01.05.: Offenbach an der Queich Lizenzrennen
 - 10.05.: RSV RTF
 - 17.05.: Loops & Cakes
-- 29.05.: Fahrradkino: Die Saat des heiligen Feigenbaums
+- 29.05.: Fahrradkino
 - 31.05.: My first 150k
 - 03.06.: Weltfahrradtag: Strava-Art
 - 04.06. - 07.06.: Bikepacking Tour
