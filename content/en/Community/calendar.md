@@ -18,7 +18,7 @@ date: 2025-05-09
 - June 3: World Bicycle Day: Strava Art
 - June 4 to June 07: Bikepacking Tour
 - June 5: World Environment Day
-- June 14: Soccer World Cup opening match Germany, boycott social ride
+- June 14: ADFC Sternfahrt, Soccer World Cup opening match Germany, boycott social ride
 - June 20 to June 21: 500 km ride
 - June 26: Bicycle Cinema
 - July 17 and 18: Tour de France Velociraptors fanbase, Le Markstein

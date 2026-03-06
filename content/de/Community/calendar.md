@@ -18,7 +18,7 @@ date: 2025-05-09
 - 03.06.: Weltfahrradtag: Strava-Art
 - 04.06. - 07.06.: Bikepacking Tour
 - 05.06.: Weltumwelttag
-- 14.06.: WM Auftaktspiel Deutschland, Boykott Social Ride 
+- 14.06.: ADFC Sternfahrt, WM Auftaktspiel Deutschland, Boykott Social Ride 
 - 20.06. - 21.06.: 500k-Ride
 - 26.06.: Fahrradkino 
 - 17.07. - 18.07.: Tour de France Velociraptors Fanbase Le Markstein
