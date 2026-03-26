@@ -17,7 +17,7 @@ draft: false
 
 📌 Langer Anger 42, 69115 Heidelberg, Germany 
 
-⏰ Jeden Donnerstag, 18:00 Uhr
+⏰ Jeden Dienstag, 18:00 Uhr
 <div style="margin-top: 1.0rem;"></div>
 
 Unser dienstägliche Feierabendrunde hat ein entspannted Tempo und erlaubt Gespräche. ☀️ Start ist bei "Ruprecht Rides" in der Bahnstadt. 🦖 Explizit willkommen sind alle, die neu im Radsport sind, ein Gravelbike fahren oder sich in anderen, leistungsorientierten Gruppen nicht wohl fühlen. Das Tempo wählen wir so, dass auch die langsamste Person die Fahrt genießen kann - man sollte im Flachen und in der Gruppe allerdings ca. 22km/h fahren können - am Berg macht jede:r so schnell wie sie / er will. Bitte achte beim Fahren stets auf deine Sicherheit, sowie die der anderen! Dazu gehört es für uns auch, einen Helm zu tragen. 
