@@ -33,7 +33,7 @@ Feedback-Form: https://forms.gle/VgNKJAoAvt71Dtid7
 <div style="margin-top: 1.0rem;"></div>
 
 📌 Uferstraße 4, Heidelberg  
-⏰ Jeden Mittwoch, 18 :00 Uhr
+⏰ Jeden Mittwoch, 17:00 Uhr
 <div style="margin-top: 1.0rem;"></div>
 
 Wer schon etwas länger dabei ist und mehr Herausforderung sucht, ist hier genau richtig.
