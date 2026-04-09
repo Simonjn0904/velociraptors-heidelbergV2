@@ -40,7 +40,7 @@ draft: false
 **Orga-Meeting Zusammenfassungen:**
 
 <div style="margin-top: 2rem; text-align: left;">
-  Organization Meeting 31.03.2026:
+  Orga-Meeting 31.03.2026:
   <a href="/documents/2026_03_30 Orga Meeting.pdf" target="_blank" rel="noopener">
     PDF
   </a>
