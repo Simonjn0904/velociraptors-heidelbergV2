@@ -62,7 +62,7 @@ Wir fahren donnerstags den wöchentlichen Gravel Ride mit Ruprecht Rides 😊 Tr
 ⏰ Jeden Samstag, 10:00 Uhr
 <div style="margin-top: 1.0rem;"></div>
 
-Wir organisieren jeden Samstag einen wöchentlichen Social Ride, mit der Betonung auf Social: das Tempo ist entspannt und erlaubt Gespräche, die Vibes sind perfekt, und am wichtigsten: wir enden mit Kaffee und Kuchen. Explizit willkommen sind Menschen, die neu im Radsport sind, ein Gravelbike fahren oder sich in anderen, leistungsorientierten Gruppen nicht so wohl fühlen. Das Tempo wählen wir so, dass auch die langsamste Person die Fahrt genießen kann, ohne das Gefühl zu haben, fast abgehängt zu werden. Die Strecke wird jede Woche in der Whatsapp-Community geteilt. Schreib einfach irgendeinem Admin, wenn du noch Fragen hast!
+Wir organisieren jeden Samstag einen wöchentlichen Social Ride, mit der Betonung auf Social: das Tempo ist entspannt und erlaubt Gespräche, die Vibes sind perfekt. Explizit willkommen sind Menschen, die neu im Radsport sind, ein Gravelbike fahren oder sich in anderen, leistungsorientierten Gruppen nicht so wohl fühlen. Das Tempo wählen wir so, dass auch die langsamste Person die Fahrt genießen kann, ohne das Gefühl zu haben, fast abgehängt zu werden. Die Strecke wird jede Woche in der Whatsapp-Community geteilt. Schreib einfach irgendeinem Admin, wenn du noch Fragen hast!
 <div style="margin-top: 1.0rem;"></div>
 
 **FLINTA ride**

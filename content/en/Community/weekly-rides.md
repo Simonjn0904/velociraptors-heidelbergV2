@@ -78,7 +78,7 @@ Meeting point is in front of the shop at 6:30 PM.
 
 <div style="margin-top: 1.0rem;"></div>
 
-Every Saturday, we organise a weekly social ride with the emphasis on social: the pace is relaxed and conversation-friendly, the vibes are great, and most importantly, we usually finish with coffee and cake. We especially welcome people who are new to cycling, ride a gravel bike, or do not feel comfortable in more performance-oriented groups. We choose the pace so that even the slowest rider can enjoy the ride without feeling like they are about to get dropped. The route is shared every week in the WhatsApp community. Just message any admin if you have questions!
+Every Saturday, we organise a weekly social ride with the emphasis on social: the pace is relaxed and conversation-friendly, the vibes are great. We especially welcome people who are new to cycling, ride a gravel bike, or do not feel comfortable in more performance-oriented groups. We choose the pace so that even the slowest rider can enjoy the ride without feeling like they are about to get dropped. The route is shared every week in the WhatsApp community. Just message any admin if you have questions!
 
 <div style="margin-top: 1.0rem;"></div>
 
