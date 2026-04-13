@@ -10,7 +10,6 @@ date: 2025-05-09
 - March 13: Off-bike social at Zep
 - April 5: My first 100 km
 - April 18: Cycling Dinner
-- May 1: Offenbach an der Queich licensed race
 - May 10: RSV RTF (recreational cycling tour)
 - May 17: Loops & Cakes
 - May 29: Bicycle Cinema

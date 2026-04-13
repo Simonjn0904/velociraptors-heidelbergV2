@@ -10,7 +10,6 @@ date: 2025-05-09
 - 13.03.: Off-bike social im Zep
 - 05.04.: My first 100k
 - 18.04.: Cycling Dinner
-- 01.05.: Offenbach an der Queich Lizenzrennen
 - 10.05.: RSV RTF
 - 17.05.: Loops & Cakes
 - 29.05.: Fahrradkino
