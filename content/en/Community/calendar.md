@@ -12,7 +12,7 @@ date: 2025-05-09
 - April 18: Cycling Dinner
 - May 10: RSV RTF (recreational cycling tour)
 - May 17: Loops & Cakes
-- May 29: Bicycle Cinema, "Kein Land für Niemand" X ADFC Heidelberg, Seebrücke, Bezahlkarte stoppen, Studis gegen Rechts
+- May 29: Bicycle Cinema, "Kein Land für Niemand" X ADFC Heidelberg, Widersetzen, Bezahlkarte stoppen
 - May 31: My first 150 km
 - June 3: World Bicycle Day: Strava Art
 - June 4 to June 07: Bikepacking Tour
