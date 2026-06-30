@@ -13,20 +13,7 @@ date: 2025-05-09
 - 10.05.: RSV RTF
 - 17.05.: Loops & Cakes
 - 29.05.: Fahrradkino: "Kein Land für Niemand" X ADFC Heidelberg, Widersetzen, Bezahlkarte stoppen
-- 31.05.: My first 150k
-- 03.06.: Weltfahrradtag: Strava-Art
-- 04.06. - 07.06.: Bikepacking Tour
-- 05.06.: Weltumwelttag
-- 14.06.: ADFC Sternfahrt, WM Auftaktspiel Deutschland, Boykott Social Ride 
-- 20.06. - 21.06.: 500k-Ride
-- 26.06.: Fahrradkino 
-- 17.07. - 18.07.: Tour de France Velociraptors Fanbase Le Markstein
-- 24:07.: Fahrradkino 
-- 01.08.: Weltpommestag (Pommes social ride)
-- O2.08.: My first 200k
-- August: Königstuhl x10
 - September: Cycling camp (8 Tage)
-- 25.10.: Weltnudeltag Küfa
 - Ende Dezember: Last ones smiling
 
 <div style="margin-top: 1.0rem;"></div>
