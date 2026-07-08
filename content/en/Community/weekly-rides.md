@@ -11,13 +11,17 @@ draft: false
 
 <div style="margin-top: 2.0rem;"></div>
 
+**You can find the exact times in our WhatsApp community, in the announcements channel!**
+
+<div style="margin-top: 2.0rem;"></div>
+
 **Tuesdays: Social Ride After-Work Loop (starting 31/03/26)**
 
 <div style="margin-top: 1.0rem;"></div>
 
 📌 Langer Anger 42, 69115 Heidelberg, Germany 
 
-⏰ Every Tuesday, 6:00 PM
+⏰ Every Tuesday, in the evening
 
 <div style="margin-top: 1.0rem;"></div>
 
@@ -39,7 +43,7 @@ Feedback form: https://forms.gle/VgNKJAoAvt71Dtid7
 
 📌 Uferstraße 4, Heidelberg  
 
-⏰ Every Wednesday, 6:00 PM
+⏰ Every Wednesday, in the evening
 
 <div style="margin-top: 1.0rem;"></div>
 
@@ -59,7 +63,7 @@ Feedback form: https://forms.gle/VgNKJAoAvt71Dtid7
 
 📌 Langer Anger 42, 69115 Heidelberg, Germany 
 
-⏰ Every Thursday, 6:30 PM
+⏰ Every Thursday, in the evening
 
 <div style="margin-top: 1.0rem;"></div>
 
@@ -74,7 +78,7 @@ Meeting point is in front of the shop at 6:30 PM.
 
 📌 Uferstraße 4, Heidelberg  
 
-⏰ Every Saturday, 10:00 AM
+⏰ Every Saturday, in the morning
 
 <div style="margin-top: 1.0rem;"></div>
 

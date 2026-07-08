@@ -11,13 +11,17 @@ draft: false
 
 <div style="margin-top: 2.0rem;"></div>
 
+**Genaue Uhrzeiten findet ihr in unserer Whatsapp-Community im Ankündigungskanal!**
+
+<div style="margin-top: 2.0rem;"></div>
+
 **Dienstags: Social Ride Feierabendrunde (ab 31.03.26)**
 
 <div style="margin-top: 1.0rem;"></div>
 
 📌 Langer Anger 42, 69115 Heidelberg, Germany 
 
-⏰ Jeden Dienstag, 18:00 Uhr
+⏰ Jeden Dienstag, abends
 <div style="margin-top: 1.0rem;"></div>
 
 Unser dienstägliche Feierabendrunde hat ein entspannted Tempo und erlaubt Gespräche. ☀️ Start ist bei "Ruprecht Rides" in der Bahnstadt. 🦖 Explizit willkommen sind alle, die neu im Radsport sind, ein Gravelbike fahren oder sich in anderen, leistungsorientierten Gruppen nicht wohl fühlen. Das Tempo wählen wir so, dass auch die langsamste Person die Fahrt genießen kann - man sollte im Flachen und in der Gruppe allerdings ca. 22km/h fahren können - am Berg macht jede:r so schnell wie sie / er will. Bitte achte beim Fahren stets auf deine Sicherheit, sowie die der anderen! Dazu gehört es für uns auch, einen Helm zu tragen. 
@@ -33,7 +37,7 @@ Feedback-Form: https://forms.gle/VgNKJAoAvt71Dtid7
 <div style="margin-top: 1.0rem;"></div>
 
 📌 Uferstraße 4, Heidelberg  
-⏰ Jeden Mittwoch, 17:00 Uhr
+⏰ Jeden Mittwoch, abends
 <div style="margin-top: 1.0rem;"></div>
 
 Wer schon etwas länger dabei ist und mehr Herausforderung sucht, ist hier genau richtig.
@@ -48,7 +52,7 @@ Feedback-Form: https://forms.gle/VgNKJAoAvt71Dtid7
 
 📌 Langer Anger 42, 69115 Heidelberg, Germany 
 
-⏰ Jeden Donnerstag, 18:30 Uhr
+⏰ Jeden Donnerstag, abends
 <div style="margin-top: 1.0rem;"></div>
 
 Wir fahren donnerstags den wöchentlichen Gravel Ride mit Ruprecht Rides 😊 Treffpunkt vor dem Laden um 18:30.
@@ -59,7 +63,7 @@ Wir fahren donnerstags den wöchentlichen Gravel Ride mit Ruprecht Rides 😊 Tr
 <div style="margin-top: 1.0rem;"></div>
 
 📌 Uferstraße 4, Heidelberg  
-⏰ Jeden Samstag, 10:00 Uhr
+⏰ Jeden Samstag, morgens
 <div style="margin-top: 1.0rem;"></div>
 
 Wir organisieren jeden Samstag einen wöchentlichen Social Ride, mit der Betonung auf Social: das Tempo ist entspannt und erlaubt Gespräche, die Vibes sind perfekt. Explizit willkommen sind Menschen, die neu im Radsport sind, ein Gravelbike fahren oder sich in anderen, leistungsorientierten Gruppen nicht so wohl fühlen. Das Tempo wählen wir so, dass auch die langsamste Person die Fahrt genießen kann, ohne das Gefühl zu haben, fast abgehängt zu werden. Die Strecke wird jede Woche in der Whatsapp-Community geteilt. Schreib einfach irgendeinem Admin, wenn du noch Fragen hast!
