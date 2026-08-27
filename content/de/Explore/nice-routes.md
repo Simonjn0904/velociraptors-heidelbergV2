@@ -49,53 +49,6 @@ draft: false
 <div class="embed-grid">
 
   <!-- Ursprüngliche + neue Routen -->
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/1069316621/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/2255569025/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/1609775018/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/2080562846/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/1104810528/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/1529630189/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/1529633657/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/1609754242/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/1312356582/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/1067789745/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/2191333711/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/1527875659/embed" loading="lazy"></iframe>
-  </div>
 
   <div class="embed-item">
     <iframe src="https://www.komoot.com/tour/1839262368/embed" loading="lazy"></iframe>
@@ -103,10 +56,6 @@ draft: false
 
   <div class="embed-item">
     <iframe src="https://www.komoot.com/tour/1511096175/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/1067819161/embed" loading="lazy"></iframe>
   </div>
 
   <div class="embed-item">
@@ -123,10 +72,6 @@ draft: false
 
   <div class="embed-item">
     <iframe src="https://www.komoot.com/de-de/tour/2183310720/embed" loading="lazy"></iframe>
-  </div>
-
-  <div class="embed-item">
-    <iframe src="https://www.komoot.com/tour/2309944909/embed" loading="lazy"></iframe>
   </div>
 
   <div class="embed-item">
