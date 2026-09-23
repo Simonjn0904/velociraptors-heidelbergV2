@@ -22,28 +22,37 @@
     {{ end }}
   {{ end }}
 
-  <div class="flex items-center justify-between">
-    {{/* Copyright */}}
-    {{ if .Site.Params.footer.showCopyright | default true }}
-    <p class="text-sm text-neutral-500 dark:text-neutral-400">
-      {{- with replace .Site.Params.copyright "{ year }" now.Year }}
-        {{ . | markdownify }}
-      {{- else }}
-        &copy; {{ now.Format "2006" }} {{ .Site.Params.Author.name | markdownify }}
-      {{- end }}
-    </p>
-    {{ end }}
+  <div class="flex flex-wrap items-center justify-between gap-6">
+    <div class="flex min-w-0 flex-1 items-center justify-between gap-6">
+      {{/* Copyright */}}
+      {{ if .Site.Params.footer.showCopyright | default true }}
+      <p class="text-sm text-neutral-500 dark:text-neutral-400">
+        {{- with replace .Site.Params.copyright "{ year }" now.Year }}
+          {{ . | markdownify }}
+        {{- else }}
+          &copy; {{ now.Format "2006" }} {{ .Site.Params.Author.name | markdownify }}
+        {{- end }}
+      </p>
+      {{ end }}
 
-    {{/* Theme attribution */}}
-    {{ if .Site.Params.footer.showThemeAttribution | default true }}
-    <p class="text-xs text-neutral-500 dark:text-neutral-400">
-      {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>` }}
-      {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>` }}
-      {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
-    </p>
-    {{ end }}
+      {{/* Theme attribution */}}
+      {{ if .Site.Params.footer.showThemeAttribution | default true }}
+      <p class="text-xs text-neutral-500 dark:text-neutral-400">
+        {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+          href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>` }}
+        {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+          href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>` }}
+        {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
+      </p>
+      {{ end }}
+    </div>
+
+  <div class="flex shrink-0 items-center gap-3" style="margin-right:100px;">
+    <span class="text-sm text-neutral-500 dark:text-neutral-400" style="margin-right:20px;">{{ i18n "footer.our_partners" }}</span>
+    <a href="https://carlundcarla.de/transporter-mieten-heidelberg">
+      <img src="{{ "images/Carlundcarla.gif" | relURL }}" alt="CarlundCarla Logo" class="nozoom" style="max-height:50px;" />
+    </a>
+  </div>
   </div>
 
   <!-- Medium Zoom dauerhaft aktivieren -->

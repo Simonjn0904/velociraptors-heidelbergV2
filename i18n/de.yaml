@@ -35,6 +35,7 @@ error:
 footer:
   dark_appearance: "Zum dunklen Erscheinungsbild wechseln"
   light_appearance: "Zum hellen Erscheinungsbild wechseln"
+  our_partners: "Unsere Partner:"
   powered_by: "Erstellt mit {{ .Hugo }} &amp; {{ .Theme }}"
 
 list:

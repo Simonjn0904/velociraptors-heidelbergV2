@@ -44,6 +44,7 @@ error:
 footer:
   dark_appearance: "Switch to dark appearance"
   light_appearance: "Switch to light appearance"
+  our_partners: "Our Partners:"
   powered_by: "Powered by {{ .Hugo }} &amp; {{ .Theme }}"
 
 list:
