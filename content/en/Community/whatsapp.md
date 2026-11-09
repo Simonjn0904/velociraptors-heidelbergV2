@@ -9,7 +9,7 @@ draft: false
 Looking for like-minded people to ride with, exchange ideas, or just have a good conversation? You’ll find all that – and more – in our WhatsApp community. All important news and upcoming events are shared in the announcements channel. Whether you’re new or have been around for a while – there’s something for everyone.  
 <div style="margin-top: 1.0rem;"></div>
 
-👉 {{< bluelink url="https://chat.whatsapp.com/EzMhtXipCytEIUyzVBjZGx" text="Join here" >}}  
+👉 {{< bluelink url="https://velociraptor-captcha.hannostruck.workers.dev/" text="Join here" >}}  
 *Click the link to get started!*
 
 <div style="margin-top: 1.0rem;"></div>

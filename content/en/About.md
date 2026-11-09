@@ -47,7 +47,7 @@ Click **[*here*](/en/blog/)** to see our latest blog posts!
   </div>
 
   <div style="text-align: center;">
-    <a href="https://chat.whatsapp.com/EzMhtXipCytEIUyzVBjZGx" target="_blank" rel="noopener">
+    <a href="https://velociraptor-captcha.hannostruck.workers.dev/" target="_blank" rel="noopener">
       <span style="display: inline-block; width: 40px; height: 40px; background-image: url('/images/icons/whatsapp.png'); background-size: contain; background-repeat: no-repeat;"></span>
     </a>
     <div style="font-size: 0.75rem; margin-top: 0.25rem;">WhatsApp</div>
